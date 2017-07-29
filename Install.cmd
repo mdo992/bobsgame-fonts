@@ -54,16 +54,16 @@ Exit
 InstallMe:  PROCEDURE
 
 progname = 'Font Installer'
-required = '*.ttf'
+required = 'BobsGame*.ttf Pixel*.ttf'
 IF RIGHT(Directory(),2) = ':\' THEN DO
-    SAY 'Problem! '||progname||' can not be installed in root directory.'
+    SAY 'Problem! Fonts can not be installed in root directory.'
     SAY 'Press any key to exit ...'
     ans = SysGetKey('NOECHO')
     Exit
 END
 
 CALL SysCls
-SAY 'Welcome to '||progname||' Installation procedure!'
+SAY 'Welcome to the font installation procedure!'
 SAY 'This procedure will install fonts to the PSFONTS directory.'
 SAY 'Press "Y" to start Installation, any other key to exit...'
 ans = TRANSLATE(SysGetKey('ECHO'))
@@ -85,9 +85,9 @@ UnInstallMe: PROCEDURE
 
 progname = 'Font Uninstaller'
 CALL SysCls
-SAY 'This is '||progname||' UnInstallation procedure!'
+SAY 'This is the font UnInstallation procedure!'
 SAY 'Your files are in PSFONTS directory.'
-SAY 'This procedure will destroy '||progname||' Program objects'
+SAY 'This procedure will remove fonts whose filenames start with BobsGame and Pixel.'
 SAY 'Press "Y" to start UnInstall, any other key to exit...'
 ans = TRANSLATE(SysGetKey('ECHO'))
 SELECT
