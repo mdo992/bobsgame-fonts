@@ -18,8 +18,5 @@ Fonts for use with the bobsgame/bobsgame repository.
 ## Installation Instructions
 http://bobsgame.wikia.com/wiki/Category:Fonts
 
-## TODO List
-* Rename the repository to bobsgame/fonts with request from @bobsgame.
-
 ## Legal Notices
 Users must accept this disclaimer of warranty: "These fonts are supplied as is. The author disclaims all warranties, expressed or implied, including, without limitation, the warranties of merchantability and of fitness for any purpose. The author assumes no liability for damages, direct or consequential, which may result from the use of these fonts."
