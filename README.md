@@ -19,7 +19,7 @@ Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). A
 http://bobsgame.wikia.com/wiki/Category:Fonts
 
 ## NFTR Installation Instructions
-The NFTR can only be applied to the European version of More English Training (EIGODUKE). Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
+The NFTR for Pixel Sans Textbook font includes partial coverage of CP1252. The only characters missing in the NFTR file is the florin and small circumflex. The NFTR can only be applied to the European version of More English Training (EIGODUKE). Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
 1. Open up the European ROM for More English Training.
 2. In the common/fonts/data folder, find a file called **European_LC12.NFTR**.
 3. Replace the file by pressing **Change file**.
