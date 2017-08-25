@@ -3,7 +3,7 @@ Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). A
 * **BobsGame Big** – The big version of normal font based on the font used in Mario & Luigi RPG games for the Nintendo DS. This font was created in 2012-12-20.
 * **BobsGame Mono** – A monospaced font based on the OS/2 font “System VIO”. The OS/2 subset of this font was created in 2015-01-08. In OS/2 computers that use the default IBM TrueType Font Engine, the glyphs are decreased by one pixel. Use the FreeType font engine to fix the glyph spacing.
 * **BobsGame nD** – This font is similar to the one used in Pokémon Diamond & Pearl (2008), Platinum (2009) and HeartGold & SoulSilver (2010) games.
-* **Pixel Sans** – Based on the font used in many Nintendo 3DS, Game Boy Advanced and Nintendo DS games. This font was created in 2015 under the name of **DS Sans**.
+* **Pixel Sans** – Based on the font used in many Nintendo 3DS, Game Boy Advance and Nintendo DS games. This font was created in 2015 under the name of **DS Sans**.
 * **Pixel Sans Fallback** – Will be used in Japanese and Korean versions when the [game author](https://github.com/robertpelloni) implemented the translatable version code.
 * **Pixel Sans Terminal** – An alternate version with all the lowercase letters changed to match the font used in SC UniPad (2006). LG provides different drawings for some characters, used only in Korean-only smart phones from the mid-2000s.
 * **Pixel Sans Textbook** – This font is similar to the one used in the Western and Korean versions of Pokémon Black & White (2011). Capital J has a serif in which the original in-game font does not have.
