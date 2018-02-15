@@ -1,5 +1,5 @@
 # bobsgame-fonts
-Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). All fonts are created with FontCreator 5.6 (2007) which is only capable of creating ordinary Unicode fonts for use with non-OpenType-savvy programs (e.g. Scribus).
+Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). All fonts are ordinary Unicode fonts for use with non-OpenType-savvy programs (e.g. Haansoft Hangul NEO).
 * **BobsGame Big** – The big version of normal font based on the font used in Mario & Luigi RPG games for the Nintendo DS. This font was created in 2012-12-20.
 * **BobsGame Mono** – A monospaced font based on the OS/2 font “System VIO”. The OS/2 subset of this font was created in 2015-01-08. In OS/2 computers that use the default IBM TrueType Font Engine, the glyphs are decreased by one pixel. Use the FreeType font engine to fix the glyph spacing.
 * **BobsGame nD** – This font is similar to the one used in Pokémon Diamond & Pearl (2008), Platinum (2009) and HeartGold & SoulSilver (2010) games.
@@ -11,22 +11,22 @@ Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). A
 
 ## Tools used
 * **CrystalTile2** – Freeware Licensed Software
-* **FontCreator** – Shareware Licensed Software
+* **FontCreator 5.6** – Shareware Licensed Software
 * **Microsoft Paintbrush, Windows XP version** – Software distributed with Windows
 * **NFTREdit** – Freeware Licensed Software
-* **Tinke** – GNU GPL Licensed Open-Source Software
+* **Tinke** – GNU GPL Licensed Open Source Software
 
 ## Installation Instructions
-Installation with REXX requires the FastIni DLL to be loaded.
+If you need to install the fonts under OS/2 using the REXX installation script, you have to load the FastINI DLL.
 
-http://bobsgame.wikia.com/wiki/Category:Fonts
+See http://bobsgame.wikia.com/wiki/Category:Fonts for installation instructions on various operating systems.
 
 ## NFTR Installation Instructions
 The NFTR for Pixel Sans Textbook font includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
 1. Open up the European ROM for More English Training.
 2. In the common/fonts/data folder, you'll see a file called **European_LC12.NFTR**.
-3. Replace the file by pressing **Change file**.
-4. Save the ROM in a new name by pressing **Save ROM**.
+3. Press **Change file** to replace the file.
+4. Press **Save ROM** to save the ROM in a new name.
 5. Test the font in the saved ROM using flash cards (e.g. TTDS) or in emulators (e.g. NO$GBA).
 
 **Note:** The NFTR can only be applied to the European version of More English Training (EIGODUKE). Applying this to the Japanese or Korean versions of this game will make the game unbootable.
