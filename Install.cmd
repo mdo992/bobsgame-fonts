@@ -73,7 +73,12 @@ SELECT
 END
 
 SAY ' '
-SAY 'Installation finished. Press any key to exit ...'
+SAY 'Installation finished.'
+SAY ' '
+SAY 'Installation instructions for different operating systems available at'
+SAY 'http://bobsgame.wikia.com/wiki/Category:Fonts'
+SAY ' '
+SAY 'Press any key to exit ...'
 ans = SysGetKey('NOECHO')
 Exit
 
@@ -87,7 +92,7 @@ progname = 'Font Uninstaller'
 CALL SysCls
 SAY 'This is the font UnInstallation procedure!'
 SAY 'Your files are in PSFONTS directory.'
-SAY 'This procedure will remove fonts whose filenames start with BobsGame and Pixel.'
+SAY 'This procedure will remove all BobsGame and Pixel fonts.'
 SAY 'Press "Y" to start UnInstall, any other key to exit...'
 ans = TRANSLATE(SysGetKey('ECHO'))
 SELECT
