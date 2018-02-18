@@ -5,8 +5,6 @@ IF RxFuncQuery('SysLoadFuncs') THEN DO
     CALL RxFuncAdd 'SysLoadFuncs', 'RexxUtil', 'SysLoadFuncs'
     CALL SysLoadFuncs
 END
-CALL RxFuncAdd  'FastIniStart','FastIni','FastIniStart'
-CALL RxFuncAdd  'FastIniEnd','FastIni','FastIniEnd'
 
 CALL SysCls
 action = TRANSLATE(LEFT(action,1))
@@ -101,16 +99,3 @@ SELECT
 END
 
 /* End of UnInstallMe */
-
-/* rc1 - return code - SysCreateObject */
-
-rc1:        PROCEDURE
-
-PARSE ARG rcSysCreateObject
-SELECT
-    WHEN rcSysCreateObject = 0 THEN rc1 = 'Error'
-    OTHERWISE rc1 = 'OK'
-END
-RETURN rc1
-
-/* End of rc1 */
