@@ -17,8 +17,6 @@ Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). A
 * **Tinke** – GNU GPL Licensed Open Source Software
 
 ## Installation Instructions
-If you need to install the fonts under OS/2 using the REXX installation script, you have to load the FastINI DLL.
-
 See http://bobsgame.wikia.com/wiki/Category:Fonts for installation instructions on various operating systems.
 
 ## NFTR Installation Instructions
