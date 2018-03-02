@@ -67,7 +67,7 @@ The current release includes support for the characters listed below.
 | FFF0-FFFF | Specials                                | 1/5      |
 
 ### PUA Characters
-The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [http://titus.uni-frankfurt.de/](TITUS Cyberbit), Junicode, [http://guindo.pntic.mec.es/~jmag0042/alphaeng.html](Alphabetum), Gandhari Unicode, [http://www.fixedsysexcelsior.com/](Fixedsys Excelsior) and [http://www.sanskritweb.net/](URW Palladio HOT) fonts.
+The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * undefined - undefined
 * undefined - undefined
 * undefined - undefined
