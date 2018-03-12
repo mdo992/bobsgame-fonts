@@ -1,12 +1,12 @@
 ## BobsGame Mono Font - Version 6.0
 
-## Introductions
+### Introductions
 BobsGame Mono is presently available in Regular weight.
 
-## Installation
+### Installation
 http://bobsgame.wikia.com/wiki/Category:Fonts
 
-## Supported Characters
+### Supported Characters
 The current release includes support for the characters listed below.
 
 | Range     | Description                             | Coverage |
@@ -26,11 +26,11 @@ The current release includes support for the characters listed below.
 | 0E00-0E7F | Thai                                    | 1/87     |
 | 10A0-10FF | Georgian                                | (all)    |
 | 1C80-1CFF | Cyrillic Extended-C                     | 6/9      |
-| 1D00-1D7F | Phonetic Extensions                     | 79/128   |
-| 1D80-1DBF | Phonetic Extensions Supplement          | 15/64    |
-| 1DC0-1DFF | Combining Diacritical Marks Supplement  | 6/58     |
+| 1D00-1D7F | Phonetic Extensions                     | 88/128   |
+| 1D80-1DBF | Phonetic Extensions Supplement          | 29/64    |
+| 1DC0-1DFF | Combining Diacritical Marks Supplement  | 17/58    |
 | 1E00-1EFF | Latin Extended Additional               | (all)    |
-| 1F00-1FFF | Greek Extended                          | 178/233  |
+| 1F00-1FFF | Greek Extended                          | (all)    |
 | 2000-206F | General Punctuation                     | 82/111   |
 | 2070-209F | Superscripts and Subscripts             | (all)    |
 | 20A0-20CF | Currency Symbols                        | (all)    |
@@ -55,14 +55,14 @@ The current release includes support for the characters listed below.
 | 2B00-2BFF | Miscellaneous Symbols and Arrows        | 34/206   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
-| 2E00-2E7F | Supplemental Punctuation                | 61/69    |
+| 2E00-2E7F | Supplemental Punctuation                | (all)    |
 | 3000-3FFF | CJK Symbols and Punctuation             | 3/64     |
 | A4D0-A4FF | Lisu                                    | (all)    |
-| A640-A69F | Cyrillic Extended-B                     | 74/91    |
+| A640-A69F | Cyrillic Extended-B                     | 80/96    |
 | A700-A71F | Modifier Tone Letters                   | (all)    |
 | A720-A7FF | Latin Extended-D                        | (all)    |
 | A830-A83F | Common Indic Number Forms               | (all)    |
-| AB30-AB6F | Latin Extended-E                        | 46/54    |
+| AB30-AB6F | Latin Extended-E                        | (all)    |
 | FB00-FB4F | Alphabetic Presentation Forms           | (all)    |
 | FFF0-FFFF | Specials                                | 1/5      |
 
