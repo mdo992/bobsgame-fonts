@@ -51,8 +51,8 @@ The current release includes support for the characters listed below.
 | 2500-257F | Box Drawing                             | (all)    |
 | 2589-259F | Block Elements                          | (all)    |
 | 25A0-25FF | Geometric Shapes                        | (all)    |
-| 2600-26FF | Miscellaneous Symbols                   | 238/256  |
-| 2700-27BF | Dingbats                                | 173/192  |
+| 2600-26FF | Miscellaneous Symbols                   | 246/256  |
+| 2700-27BF | Dingbats                                | 190/192  |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | (all)    |
 | 27F0-27FF | Supplemental Arrows-A                   | (all)    |
 | 2900-297F | Supplemental Arrows-B                   | (all)    |
@@ -67,7 +67,7 @@ The current release includes support for the characters listed below.
 | 2DE0-2DFF | Cyrillic Extended-A                     | (all)    |
 | 2E00-2E7F | Supplemental Punctuation                | (all)    |
 | 2FF0-2FFF | Ideographic Description Characters      | (all)    |
-| 3000-3FFF | CJK Symbols and Punctuation             | 11/64    |
+| 3000-3FFF | CJK Symbols and Punctuation             | 22/64    |
 | 3200-32FF | Enclosed CJK Letters and Months         | 39/253   |
 | 3300-33FF | CJK Compatibility                       | 2/256    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                 | (all)    |
