@@ -137,7 +137,4 @@ The current release includes support for the characters listed below.
 
 ### PUA Characters
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
-* undefined - undefined
-* undefined - undefined
-* undefined - undefined
-* undefined - undefined
+* EAA0-EAB6 - Glyphs for old SIL Encore font engine
