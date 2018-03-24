@@ -46,13 +46,13 @@ The current release includes support for the characters listed below.
 | 2589-259F | Block Elements                          | 8/32     |
 | 25A0-25FF | Geometric Shapes                        | 53/255   |
 | 2600-26FF | Miscellaneous Symbols                   | 104/256  |
-| 2700-27BF | Dingbats                                | 24/192   |
+| 2700-27BF | Dingbats                                | 32/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | 20/48    |
 | 27F0-27FF | Supplemental Arrows-A                   | 10/16    |
 | 2900-297F | Supplemental Arrows-B                   | 63/144   |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B    | 50/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators     | 109/256  |
-| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 34/206   |
+| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 36/206   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
 | 2E00-2E7F | Supplemental Punctuation                | (all)    |
@@ -68,7 +68,4 @@ The current release includes support for the characters listed below.
 
 ### PUA Characters
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
-* undefined - undefined
-* undefined - undefined
-* undefined - undefined
-* undefined - undefined
+* EAA0-EAB6 - Glyphs for old SIL Encore font engine
