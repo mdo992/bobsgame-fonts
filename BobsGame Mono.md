@@ -25,8 +25,9 @@ The current release includes support for the characters listed below.
 | 0590-05FF | Hebrew                                  | (all)    |
 | 0E00-0E7F | Thai                                    | 1/87     |
 | 10A0-10FF | Georgian                                | (all)    |
+| 16A0-16FF | Runic                                   | 2/89     |
 | 1C80-1CFF | Cyrillic Extended-C                     | 6/9      |
-| 1D00-1D7F | Phonetic Extensions                     | 88/128   |
+| 1D00-1D7F | Phonetic Extensions                     | 90/128   |
 | 1D80-1DBF | Phonetic Extensions Supplement          | 29/64    |
 | 1DC0-1DFF | Combining Diacritical Marks Supplement  | 18/59    |
 | 1E00-1EFF | Latin Extended Additional               | (all)    |
@@ -38,14 +39,14 @@ The current release includes support for the characters listed below.
 | 2100-214F | Letterlike Symbols                      | 70/80    |
 | 2150-218F | Number Forms                            | 26/60    |
 | 2190-21FF | Arrows                                  | 83/112   |
-| 2200-22FF | Mathematical Operators                  | 186/256  |
+| 2200-22FF | Mathematical Operators                  | 198/256  |
 | 2300-23FF | Miscellaneous Technical                 | 180/255  |
 | 2400-243F | Control Pictures                        | (all)    |
 | 2440-245F | Optical Character Recognition           | (all)    |
 | 2500-257F | Box Drawing                             | 55/128   |
 | 2589-259F | Block Elements                          | 8/32     |
-| 25A0-25FF | Geometric Shapes                        | 53/255   |
-| 2600-26FF | Miscellaneous Symbols                   | 104/256  |
+| 25A0-25FF | Geometric Shapes                        | 58/255   |
+| 2600-26FF | Miscellaneous Symbols                   | 114/256  |
 | 2700-27BF | Dingbats                                | 32/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | 20/48    |
 | 27F0-27FF | Supplemental Arrows-A                   | 10/16    |
@@ -68,4 +69,12 @@ The current release includes support for the characters listed below.
 
 ### PUA Characters
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
-* EAA0-EAB6 - Glyphs for old SIL Encore font engine
+* E004-E7FD – Latin letters with diacritics (TITUS)
+* EA00-EB94 – Greek letters with diacritics (TITUS)
+* EAA0-EAB6 – Glyphs for old SIL Encore font engine
+* EE01-EEAD – Cyrillic letters with diacritics (TITUS)
+* F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, these letters are only available in lowercase
+* F638 – slashed zero (Fixedsys Excelsior)
+* F6C3 – comma below (Adobe PUA)
+* F6DC – tabular digit one (Adobe PUA)
+* F8FF – Apple logo
