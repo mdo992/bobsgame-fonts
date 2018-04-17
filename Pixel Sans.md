@@ -138,3 +138,8 @@ The current release includes support for the characters listed below.
 ### PUA Characters
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * EAA0-EAB6 - Glyphs for old SIL Encore font engine
+
+## Linking fonts when using Windows
+
+## Linking fonts when using OS/2
+Use any OS/2 INI file editor, e.g. INITOR. In the system profile (os2.ini), go to PM_SystemFonts and add a key named PM_AssociateFont with "Pixel Sans Fallback,12" as the data.
