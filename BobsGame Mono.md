@@ -39,8 +39,8 @@ The current release includes support for the characters listed below.
 | 2100-214F | Letterlike Symbols                      | 70/80    |
 | 2150-218F | Number Forms                            | 26/60    |
 | 2190-21FF | Arrows                                  | 83/112   |
-| 2200-22FF | Mathematical Operators                  | 198/256  |
-| 2300-23FF | Miscellaneous Technical                 | 180/255  |
+| 2200-22FF | Mathematical Operators                  | 200/256  |
+| 2300-23FF | Miscellaneous Technical                 | 181/255  |
 | 2400-243F | Control Pictures                        | (all)    |
 | 2440-245F | Optical Character Recognition           | (all)    |
 | 2500-257F | Box Drawing                             | 55/128   |
@@ -52,7 +52,7 @@ The current release includes support for the characters listed below.
 | 27F0-27FF | Supplemental Arrows-A                   | 10/16    |
 | 2900-297F | Supplemental Arrows-B                   | 63/144   |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B    | 50/128   |
-| 2A00-2AFF | Supplemental Mathematical Operators     | 109/256  |
+| 2A00-2AFF | Supplemental Mathematical Operators     | 116/256  |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows        | 36/206   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
