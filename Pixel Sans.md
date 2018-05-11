@@ -139,15 +139,15 @@ The current release includes support for the characters listed below.
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * EAA0-EAB6 - Glyphs for old SIL Encore font engine
 
-### Font Linking on Windows
+### Font Linking (Windows)
 Download FontLink.reg or add four keys named **Pixel Sans**, **Pixel Sans Terminal**, **Pixel Sans Tetrid** and **Pixel Sans Textbook** to the SystemLink key: "Pixel Sans Fallback.ttf,Pixel Sans Fallback" and restart the computer.
 
-Japanese and Korean users will appreciate that the backslash (\) is replaced with the glyph from Pixel Sans Fallback.
+Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
-### Font Linking on OS/2
-Use any OS/2 INI file editor, e.g. INITOR or the built-in OS/2 registry editor. In the system profile (os2.ini), go to PM_SystemFonts and add a key named PM_AssociateFont with "Pixel Sans Fallback,12" as the data.
+### Font Linking (OS/2)
+Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor to edit the system profile (os2.ini). Go to PM_SystemFonts and add a key named PM_AssociateFont with "Pixel Sans Fallback,12" as the data.
 
-### Setting Pixel Sans Fallback as the default font for CJK languages
+### Setting Pixel Sans Fallback as the default font for CJK languages in internet browsers
 1. Clone the repository or download the zipped archive.
 2. Go to any website or page written or translated in Chinese, Japanese or Korean.
 3. Open up the preferences in your browser.
