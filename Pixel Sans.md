@@ -137,7 +137,7 @@ The current release includes support for the characters listed below.
 
 ### PUA Characters
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
-* EAA0-EAB6 - Glyphs for old SIL Encore font engine
+* EAA0-EAB6 – Glyphs for old SIL Encore font engine
 
 ### Font Linking (Windows)
 Download FontLink.reg or add four keys named **Pixel Sans**, **Pixel Sans Terminal**, **Pixel Sans Tetrid** and **Pixel Sans Textbook** to the SystemLink key: "Pixel Sans Fallback.ttf,Pixel Sans Fallback" and restart the computer.
@@ -149,7 +149,7 @@ Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor to edi
 
 ### Setting Pixel Sans Fallback as the default font for CJK languages in internet browsers
 1. Clone the repository or download the zipped archive.
-2. Go to any website or page written or translated in Chinese, Japanese or Korean.
+2. Go to any website or page written or translated in Chinese, Japanese or Korean. Example (in Japanese only): [Seesaa Wiki animation staff database page list](http://seesaawiki.jp/w/radioi_34/l/)
 3. Open up the preferences in your browser.
 4. Select Pixel Sans Fallback as the default sans-serif font for these languages.
 5. Use 8 points as the font size in Netscape or Mozilla.
