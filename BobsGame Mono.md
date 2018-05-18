@@ -37,10 +37,10 @@ The current release includes support for the characters listed below.
 | 20A0-20CF | Currency Symbols                        | (all)    |
 | 20D0-20FF | Combining Diacritical Marks for Symbols | (all)    |
 | 2100-214F | Letterlike Symbols                      | 70/80    |
-| 2150-218F | Number Forms                            | 26/60    |
+| 2150-218F | Number Forms                            | 29/60    |
 | 2190-21FF | Arrows                                  | 83/112   |
 | 2200-22FF | Mathematical Operators                  | 200/256  |
-| 2300-23FF | Miscellaneous Technical                 | 181/255  |
+| 2300-23FF | Miscellaneous Technical                 | 182/255  |
 | 2400-243F | Control Pictures                        | (all)    |
 | 2440-245F | Optical Character Recognition           | (all)    |
 | 2500-257F | Box Drawing                             | 55/128   |
@@ -51,7 +51,7 @@ The current release includes support for the characters listed below.
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | 20/48    |
 | 27F0-27FF | Supplemental Arrows-A                   | 10/16    |
 | 2900-297F | Supplemental Arrows-B                   | 63/144   |
-| 2980-29FF | Miscellaneous Mathematical Symbols-B    | 50/128   |
+| 2980-29FF | Miscellaneous Mathematical Symbols-B    | 60/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators     | 116/256  |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows        | 36/206   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
