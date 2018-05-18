@@ -17,17 +17,17 @@ Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). T
 * **Tinke** – GNU GPL Licensed Open Source Software
 
 ## Installation Instructions
-See http://bobsgame.wikia.com/wiki/Category:Fonts for installation instructions on various operating systems.
+See link to the Wikia portal as mentioned in the font md files for installation instructions on various operating systems.
 
 ## NFTR Installation Instructions
-The NFTR for Pixel Sans Textbook font includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
-1. Find and open the European ROM for More English Training.
-2. In the common/fonts/data folder, you'll see a file called **European_LC12.NFTR**.
+The NFTR for Pixel Sans Textbook font includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file in the More English Training European ROM.
+1. Download the ROM from ROM hosting sites and open it.
+2. You see a file called **European_LC12.NFTR** in common/fonts/data.
 3. Press **Change file** to replace the file.
 4. Press **Save ROM** to save the ROM in a new name.
-5. Test the font in the saved ROM using flash cards (e.g. TTDS) or in emulators (e.g. NO$GBA).
+5. Test the font using flash cards (e.g. TTDS) or in emulators (e.g. NO$GBA).
 
-**Note:** The NFTR can only be applied to the European version of More English Training (EIGODUKE). Applying this to the Japanese or Korean versions of this game will make the game unbootable.
+**Note:** The NFTR can only be applied to the European version. Applying this to the Japanese or Korean versions of this game will make the game unbootable.
 
 ## Warranty Guide
 Permission to use, copy, modify and distribute this font software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation, and that the name of Robert Pelloni not be used in advertising or publicity pertaining to distribution of the font software without specific, written prior permission. 
