@@ -31,23 +31,23 @@ The current release includes support for the characters listed below.
 | 1F00-1FFF | Greek Extended                         | (all)    |
 | 2000-206F | General Punctuation                    | 74/111   |
 | 2070-209F | Superscripts and Subscripts            | (all)    |
-| 20A0-20CF | Currency Symbols                       | 26/31    |
+| 20A0-20CF | Currency Symbols                       | (all)    |
 | 2100-214F | Letterlike Symbols                     | 30/80    |
 | 2150-218F | Number Forms                           | 18/60    |
 | 2190-21FF | Arrows                                 | 13/112   |
 | 2200-22FF | Mathematical Operators                 | 86/256   |
-| 2300-23FF | Miscellaneous Technical                | 38/255   |
+| 2300-23FF | Miscellaneous Technical                | 42/255   |
 | 2400-243F | Control Pictures                       | 20/39    |
 | 2500-257F | Box Drawing                            | 17/128   |
 | 25A0-25FF | Geometric Shapes                       | 13/96    |
 | 2600-26FF | Miscellaneous Symbols                  | 62/256   |
 | 2700-27BF | Dingbats                               | 25/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A   | 10/48    |
-| 2980-29FF | Miscellaneous Mathematical Symbols-B   | 24/128   |
+| 2980-29FF | Miscellaneous Mathematical Symbols-B   | 32/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators    | 33/256   |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows       | 6/206    |
 | 2C60-2C7F | Latin Extended-C                       | (all)    |
-| 2E00-2E5F | Supplemental Punctuation               | 13/69    |
+| 2E00-2E5F | Supplemental Punctuation               | 24/69    |
 | 3000-303F | CJK Symbols and Punctuation            | 3/64     |
 | A4D0-A4FF | Lisu                                   | (all)    |
 | A640-A69F | Cyrillic Extended-A                    | 30/96    |
