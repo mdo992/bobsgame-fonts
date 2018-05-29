@@ -82,6 +82,36 @@ The current release includes support for the characters listed below.
 | FF00-FFEF | Halfwidth and Fullwidth Forms           | 2/222    |
 | FFF0-FFFF | Specials                                | 1/5      |
 
+### PUA Characters - Version 5.0
+The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
+* E004-E7FD – Latin letters (TITUS)
+* E801-E804 – Hebrew Microsoft PUA
+* E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gandhari Unicode stuff
+* EA00-EB94 – Greek letters (TITUS)
+* EAA0-EAB6 – Glyphs for old SIL Encore font engine
+* EC00-EDFE – Georgian extensions (TITUS)
+* EE01-EEAD – Cyrillic letters (TITUS)
+* F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
+* F4D0-F4D9 – lowercase descending numerals
+* F4E0, F4E5, F4F0, F4F3, F4F4, F4F8 – Schoolbook alternates for small letters, Textbook only
+* F4E2 – GNU copyleft symbol
+* F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, italics are only available in lowercase
+* F51A-F51B – long k
+* F5CC – Oblique Hyphen
+* F638 – slashed zero (Fixedsys Excelsior)
+* F664-F669 – Symbols from Zone of the Enders: The Fist of Mars
+* F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
+* F700, F70F – Thai Microsoft PUA
+* F72A, F73A, F74A, F751, F754, F764, F76B, F770, F772, F774, F77E, F782, F789, F78B-F78D, F790, F792-F794, F7A2, F7A9, F7AB-F7AD, F7BA-F7BF, F7C0-F7C1, F7C4-F7C5, F7C9, F7CC, F7CE-F7D1, F7D6-F7D7, F7DB-F7DC, F7E0-F7E1, F7E5, F7E9, F7EE-F7F1, F7F6-F7F7, F7FB-F7FC, F7FE, F889-F8C7 – Fullwidth extensions, Textbook only
+* F799 – Capital J without serif (Textbook only)
+* F7CA – Fullwidth capital J without serif (Textbook only)
+* F7E4 – Alternative Cyrillic “be”, used in Serbian and Macedonian languages
+* F800-F807 – ALA-LC transliteration scheme/native languages of Colombia diacritics
+* F814-F82D – Diacritics for African languages
+* F830-F835 – Latin letters (Quivira)
+* F870-F888 – Symbols in Pokémon Black & White (Textbook only). The font in the game used the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols.
+* F8FF – Apple logo
+
 ### Supported Characters - Fallback Version 5.0
 The current release includes support for the characters listed below.
 
@@ -136,8 +166,17 @@ The current release includes support for the characters listed below.
 | FFF0-FFFF | Specials                           | 1/5        |
 
 ### PUA Characters
-The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
-* EAA0-EAB6 – Glyphs for old SIL Encore font engine
+* E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Nintendo DS/Wii symbols
+* E06C – MySims symbol
+* E06D – Xbox Gold
+* E2D1-E30C, E320-E337 – Additional Japanese glyphs
+* E34C-E34E, EC7B-EC7E – Nut Fractions
+* F638, F6DC – Adobe PUA
+* F78D, F7AD, F7B0-F7BF – Fullwidth Letters with Diacritics
+* F82E – Tri Force sign
+* F82F – ? block, used in the Mario series of games
+* F884 – Pokémon currency, usually mapped to the dollar sign ($) in Pokémon games
+* F8FF – Apple logo
 
 ### Font Linking (Windows)
 Download FontLink.reg or add four keys named **Pixel Sans**, **Pixel Sans Terminal**, **Pixel Sans Tetrid** and **Pixel Sans Textbook** to the SystemLink key: "Pixel Sans Fallback.ttf,Pixel Sans Fallback" and restart the computer.
