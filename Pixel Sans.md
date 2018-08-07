@@ -83,7 +83,7 @@ The current release includes support for the characters listed below.
 | FFF0-FFFF | Specials                                | 1/5      |
 
 ### PUA Characters - Version 5.0
-The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
+The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * E004-E7FD – Latin letters (TITUS)
 * E801-E804 – Hebrew Microsoft PUA
 * E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gandhari Unicode stuff
@@ -187,8 +187,8 @@ Japanese and Korean users will appreciate that the backslash is replaced with th
 Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor to edit the system profile (os2.ini). Go to PM_SystemFonts and add a key named PM_AssociateFont with "Pixel Sans Fallback,12" as the data.
 
 ### Setting Pixel Sans Fallback as the default font for CJK languages in internet browsers
-1. Clone the repository or download the zipped archive.
-2. Go to any website or page written or translated in Chinese, Japanese or Korean. Example (in Japanese only): [Seesaa Wiki animation staff database page list](http://seesaawiki.jp/w/radioi_34/l/)
+1. Clone the repository, download the zipped archive or the font separately.
+2. Go to any website or page written or translated in Chinese, Japanese or Korean. Example: [Seesaa Wiki animation staff database page list](http://seesaawiki.jp/w/radioi_34/l/), in Japanese only.
 3. Open up the preferences in your browser.
 4. Select Pixel Sans Fallback as the default sans-serif font for these languages.
 5. Use 8 points as the font size in Netscape or Mozilla.
