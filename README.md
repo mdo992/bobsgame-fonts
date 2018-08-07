@@ -1,7 +1,7 @@
 # bobsgame-fonts
 Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). These are all ordinary Unicode fonts for use with non-OpenType-savvy programs (e.g. the Korean word processor Haansoft Hangul NEO).
 * **BobsGame Big** – Based on the font used in Mario & Luigi RPG games for the Nintendo DS. This font was created in 2012-12-20.
-* **BobsGame Mono** – Based on the OS/2 font “System VIO”. The OS/2 subset of this font was created in 2015-01-08. In OS/2 computers that use the default IBM TrueType Font Engine, the glyphs are decreased by one pixel. Use the FreeType font engine to fix the glyph spacing.
+* **BobsGame Mono** – Based on the OS/2 font “System VIO”. The OS/2 subset of this font was created in 2015-01-08 but was cancelled. In OS/2 computers that use the default IBM TrueType Font Engine, the glyphs are decreased by one pixel.
 * **BobsGame nD** – Based on the font used in Pokémon Diamond & Pearl (2008), Platinum (2009) and HeartGold & SoulSilver (2010) games. The font will be used for nDworld.
 * **Pixel Sans** – Based on the font used in many Nintendo 3DS, Game Boy Advance and Nintendo DS games. This font was created in 2015 under the name of **DS Sans**.
 * **Pixel Sans Fallback** – For use in Japanese and Korean versions when the [game author](https://github.com/robertpelloni) implemented the translatable version code.
@@ -17,11 +17,11 @@ Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). T
 * **Tinke** – GNU GPL Licensed Open Source Software
 
 ## Installation Instructions
-See link to the Wikia portal as mentioned in the font md files for installation instructions on various operating systems.
+See link to the Wikia portal in the .md files for installation instructions on various operating systems.
 
 ## NFTR Installation Instructions
-The NFTR for Pixel Sans Textbook font includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file in the More English Training European ROM.
-1. Download the ROM from ROM hosting sites and open it.
+The NFTR for Pixel Sans Textbook font includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
+1. Download the More English Training European ROM from ROM hosting sites (e.g. ROM Hustler or Emuparadise) and open it.
 2. You see a file called **European_LC12.NFTR** in common/fonts/data.
 3. Press **Change file** to replace the file.
 4. Press **Save ROM** to save the ROM in a new name.
@@ -29,9 +29,11 @@ The NFTR for Pixel Sans Textbook font includes partial coverage of CP1252. The o
 
 **Note:** The NFTR can only be applied to the European version. Applying this to the Japanese or Korean versions of this game will make the game unbootable.
 
-## Warranty Guide
-Permission to use, copy, modify and distribute this font software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation, and that the name of Robert Pelloni not be used in advertising or publicity pertaining to distribution of the font software without specific, written prior permission. 
+## Licensing Information
+These fonts are not distributed pursuant to the SIL Open Font License, which is as follows:
 
-Robert Pelloni makes no representations about the suitability of this font software for any purpose. It is provided "as is" without express or implied warranty. 
+Permission to use, copy, modify and distribute this font software and its documentation for any purpose is hereby granted without fee, provided that the above copyright notice appear in all copies and that both that copyright notice and this permission notice appear in supporting documentation, and that the name of Robert Matthew Pelloni not be used in advertising or publicity pertaining to distribution of the font software without specific, written prior permission. 
 
-ROBERT PELLONI DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS FONT SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL ROBERT PELLONI BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS FONT SOFTWARE.
+Robert Matthew Pelloni makes no representations about the suitability of this font software for any purpose. It is provided "as is" without express or implied warranty. 
+
+ROBERT MATTHEW PELLONI DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS FONT SOFTWARE, INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS, IN NO EVENT SHALL ROBERT MATTHEW PELLONI BE LIABLE FOR ANY SPECIAL, INDIRECT OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF THIS FONT SOFTWARE.
