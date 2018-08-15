@@ -1,7 +1,0 @@
-﻿Windows Registry Editor Version 5.00
-
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink]
-"Pixel Sans"="Pixel Sans Fallback.ttf,Pixel Sans Fallback"
-"Pixel Sans Terminal"="Pixel Sans Fallback.ttf,Pixel Sans Fallback"
-"Pixel Sans Tetrid"="Pixel Sans Fallback.ttf,Pixel Sans Fallback"
-"Pixel Sans Textbook"="Pixel Sans Fallback.ttf,Pixel Sans Fallback"
