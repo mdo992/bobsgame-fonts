@@ -94,7 +94,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F4D0-F4D9 – lowercase descending numerals
 * F4E0, F4E5, F4F0, F4F3, F4F4, F4F8 – Schoolbook alternates for small letters, Textbook only
-* F4E2 – GNU copyleft symbol
+* F4E2 – Copyleft symbol (SMP codepoint is)
 * F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, italics are only available in lowercase
 * F51A-F51B – long k
 * F5CC – Oblique Hyphen
@@ -103,8 +103,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F700, F70F – Thai Microsoft PUA
 * F72A, F73A, F74A, F751, F754, F764, F76B, F770, F772, F774, F77E, F782, F789, F78B-F78D, F790, F792-F794, F7A2, F7A9, F7AB-F7AD, F7BA-F7BF, F7C0-F7C1, F7C4-F7C5, F7C9, F7CC, F7CE-F7D1, F7D6-F7D7, F7DB-F7DC, F7E0-F7E1, F7E5, F7E9, F7EE-F7F1, F7F6-F7F7, F7FB-F7FC, F7FE, F889-F8C7 – Fullwidth extensions, Textbook only
-* F799 – Capital J without serif (Textbook only)
-* F7CA – Fullwidth capital J without serif (Textbook only)
+* F799, F7CA – Capital J without serif, used in Pokémon Black & White (Textbook only)
 * F7E4 – Alternative Cyrillic “be”, used in Serbian and Macedonian languages
 * F800-F807 – ALA-LC transliteration scheme/native languages of Colombia diacritics
 * F814-F82D – Diacritics for African languages
@@ -179,7 +178,7 @@ The current release includes support for the characters listed below.
 * F8FF – Apple logo
 
 ### Font Linking (Windows)
-Download FontLink.reg or add four keys named **Pixel Sans**, **Pixel Sans Terminal**, **Pixel Sans Tetrid** and **Pixel Sans Textbook** to the SystemLink key: "Pixel Sans Fallback.ttf,Pixel Sans Fallback" and restart the computer.
+Add four keys named **Pixel Sans**, **Pixel Sans Terminal**, **Pixel Sans Tetrid** and **Pixel Sans Textbook** to the SystemLink key: "Pixel Sans Fallback.ttf,Pixel Sans Fallback" and restart the computer.
 
 Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
