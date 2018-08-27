@@ -94,7 +94,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F4D0-F4D9 – lowercase descending numerals
 * F4E0, F4E5, F4F0, F4F3, F4F4, F4F8 – Schoolbook alternates for small letters, Textbook only
-* F4E2 – Copyleft symbol (SMP codepoint is)
+* F4E2 – Copyleft symbol (SMP codepoint is 1F12F)
 * F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, italics are only available in lowercase
 * F51A-F51B – long k
 * F5CC – Oblique Hyphen
