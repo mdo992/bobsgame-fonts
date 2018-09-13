@@ -6,7 +6,7 @@ Pixel Sans is presently available in Regular weight.
 ### Installation
 http://bobsgame.wikia.com/wiki/Category:Fonts
 
-### Supported Characters
+### Supported Characters (BMP)
 The current release includes support for the characters listed below.
 
 | Range     | Description                             | Coverage |
@@ -82,6 +82,17 @@ The current release includes support for the characters listed below.
 | FF00-FFEF | Halfwidth and Fullwidth Forms           | 2/222    |
 | FFF0-FFFF | Specials                                | 1/5      |
 
+### Supported Characters (SMP)
+The current release includes support for the characters listed below.
+
+| Range       | Description                       | Coverage |
+|-------------|-----------------------------------|----------|
+| 10190-101CF | Ancient Symbols                   | (all)    |
+| 10330-1034F | Gothic                            | (all)    |
+| 1D100-1D1FF | Musical Symbols                   | 10/211   |
+| 1D400-1D7FF | Mathematical Alphanumeric Symbols | 25/996   |
+| 1F100-1F1FF | Enclosed Alphanumerics Supplement | 2/173    |
+
 ### PUA Characters - Version 5.0
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * E004-E7FD – Latin letters (TITUS)
@@ -95,8 +106,8 @@ The current release includes the PUA characters listed below. The allocation of 
 * F4D0-F4D9 – lowercase descending numerals
 * F4E0, F4E5, F4F0, F4F3, F4F4, F4F8 – Schoolbook alternates for small letters, Textbook only
 * F4E2 – Copyleft symbol (SMP codepoint is 1F12F)
+* F4EA, F50A – long k
 * F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, italics are only available in lowercase
-* F51A-F51B – long k
 * F5CC – Oblique Hyphen
 * F638 – slashed zero (Fixedsys Excelsior)
 * F664-F669 – Symbols from Zone of the Enders: The Fist of Mars
@@ -105,7 +116,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * F72A, F73A, F74A, F751, F754, F764, F76B, F770, F772, F774, F77E, F782, F789, F78B-F78D, F790, F792-F794, F7A2, F7A9, F7AB-F7AD, F7BA-F7BF, F7C0-F7C1, F7C4-F7C5, F7C9, F7CC, F7CE-F7D1, F7D6-F7D7, F7DB-F7DC, F7E0-F7E1, F7E5, F7E9, F7EE-F7F1, F7F6-F7F7, F7FB-F7FC, F7FE, F889-F8C7 – Fullwidth extensions, Textbook only
 * F799, F7CA – Capital J without serif, used in Pokémon Black & White (Textbook only)
 * F7E4 – Alternative Cyrillic “be”, used in Serbian and Macedonian languages
-* F800-F807 – ALA-LC transliteration scheme/native languages of Colombia diacritics
+* F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages
 * F830-F835 – Latin letters (Quivira)
 * F870-F888 – Symbols in Pokémon Black & White (Textbook only). The font in the game used the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols.
