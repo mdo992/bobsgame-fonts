@@ -6,7 +6,6 @@ Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). T
 * **Pixel Sans** – Based on the font used in many Nintendo 3DS, Game Boy Advance and Nintendo DS games. This font was created in 2015 under the name of **DS Sans**.
 * **Pixel Sans Fallback** – For use in Japanese and Korean versions when the [game author](https://github.com/robertpelloni) makes this game fully translatable.
 * **Pixel Sans Terminal** – An alternate version with all the lowercase letters changed to match the font used in SC UniPad (2006). LG provides different drawings for some characters, used in CYON phones made after 2010.
-* **Pixel Sans Tetrid** – An alternate version with some uppercase and lowercase letters changed for use with Tetrid's user interface.
 * **Pixel Sans Textbook** – A modified version of the font used in Western and Korean versions of Pokémon Black & White with revised glyphs and support for more glyphs. This font uses the same character set as in the non-Fallback version of Pixel Sans.
 
 ## Tools used
