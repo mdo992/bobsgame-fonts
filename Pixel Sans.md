@@ -90,8 +90,8 @@ The current release includes support for the characters listed below.
 | 10190-101CF | Ancient Symbols                   | (all)    |
 | 10330-1034F | Gothic                            | (all)    |
 | 1D100-1D1FF | Musical Symbols                   | 10/211   |
-| 1D400-1D7FF | Mathematical Alphanumeric Symbols | 25/996   |
-| 1F100-1F1FF | Enclosed Alphanumerics Supplement | 2/173    |
+| 1D400-1D7FF | Mathematical Alphanumeric Symbols | 82/996   |
+| 1F100-1F1FF | Enclosed Alphanumerics Supplement | 59/173   |
 
 ### PUA Characters - Version 5.0
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
@@ -105,7 +105,6 @@ The current release includes the PUA characters listed below. The allocation of 
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F4D0-F4D9 – lowercase descending numerals
 * F4E0, F4E5, F4F0, F4F3, F4F4, F4F8 – Schoolbook alternates for small letters, Textbook only
-* F4E2 – Copyleft symbol (SMP codepoint is 1F12F)
 * F4EA, F50A – long k
 * F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, italics are only available in lowercase
 * F5CC – Oblique Hyphen
