@@ -13,7 +13,7 @@ Fonts created for use with [bob's game](https://github.com/bobsgame/bobsgame). T
 * **FontCreator 5.6** – Shareware Licensed Software
 * **Microsoft Paintbrush, Windows XP version** – Software distributed with Windows
 * **NFTREdit** – Freeware Licensed Software
-* **Tinke** – GNU GPL Licensed Open Source Software
+* **Tinke** – GPL 3.0 Licensed Open Source Software
 
 ## Installation Instructions
 See the font category on the unofficial bob's game Wikia portal in the .md files for installation instructions.
