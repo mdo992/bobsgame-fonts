@@ -180,7 +180,6 @@ The current release includes support for the characters listed below.
 ### PUA Characters
 * E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Nintendo DS/Wii symbols
 * E06C – MySims symbol
-* E06D – Xbox Gold
 * E2D1-E30C, E320-E337 – Additional Japanese glyphs
 * E34C-E34E, EC7B-EC7E – Nut Fractions
 * F638, F6DC – Adobe PUA
@@ -193,14 +192,16 @@ The current release includes support for the characters listed below.
 ### Font Linking (Windows)
 Add four keys named **Pixel Sans**, **Pixel Sans Terminal**, **Pixel Sans Tetrid** and **Pixel Sans Textbook** to the SystemLink key: "Pixel Sans Fallback.ttf,Pixel Sans Fallback" and restart the computer.
 
+The same goes for Wine which is a Windows compatibility layer for Linux distributions.
+
 Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
 ### Font Linking (OS/2)
-Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor to edit the system profile (os2.ini). Go to PM_SystemFonts and add a key named PM_AssociateFont with "Pixel Sans Fallback,12" as the data.
+Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 WARP 4.52 Server for e-Business and above) to edit the system profile (os2.ini). Go to PM_SystemFonts and add a key named PM_AssociateFont with "Pixel Sans Fallback,12" as the data.
 
-### Setting Pixel Sans Fallback as the default font for CJK languages in internet browsers
+### Setting Pixel Sans Fallback as the default font for Japanese and Korean in internet browsers
 1. Clone the repository, download the zipped archive or the font separately.
-2. Go to any website or page written or translated in Chinese, Japanese or Korean. Example: [Seesaa Wiki animation staff database page list](http://seesaawiki.jp/w/radioi_34/l/), in Japanese only.
-3. Open up the preferences in your browser.
-4. Select Pixel Sans Fallback as the default sans-serif font for these languages.
-5. Use 8 points as the font size in Netscape or Mozilla.
+2. Go to any website or page written or translated in Japanese or Korean. Example: [Seesaa Wiki animation staff database page list](http://seesaawiki.jp/w/radioi_34/l/), in Japanese only.
+3. Open up the settings in your browser.
+4. Select Pixel Sans Fallback as the default sans-serif font Japanese and Korean.
+5. Use 8 points as the font size in Netscape or Mozilla. (OS/2 users will appreciate that 12 has to be used.)
