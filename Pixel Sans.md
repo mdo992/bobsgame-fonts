@@ -4,7 +4,7 @@
 Pixel Sans is presently available in Regular weight.
 
 ### Installation
-http://bobsgame.wikia.com/wiki/Category:Fonts
+http://bobsgame.wikia.com/wiki/Category:Fonts (Use https for the protocol if you're logged in to Wikia or connected with Facebook or Twitter.)
 
 ### Supported Characters (BMP)
 The current release includes support for the characters listed below.
@@ -51,7 +51,7 @@ The current release includes support for the characters listed below.
 | 2500-257F | Box Drawing                             | (all)    |
 | 2589-259F | Block Elements                          | (all)    |
 | 25A0-25FF | Geometric Shapes                        | (all)    |
-| 2600-26FF | Miscellaneous Symbols                   | 246/256  |
+| 2600-26FF | Miscellaneous Symbols                   | 247/256  |
 | 2700-27BF | Dingbats                                | 190/192  |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | (all)    |
 | 27F0-27FF | Supplemental Arrows-A                   | (all)    |
@@ -85,13 +85,16 @@ The current release includes support for the characters listed below.
 ### Supported Characters (SMP)
 The current release includes support for the characters listed below.
 
-| Range       | Description                       | Coverage |
-|-------------|-----------------------------------|----------|
-| 10190-101CF | Ancient Symbols                   | (all)    |
-| 10330-1034F | Gothic                            | (all)    |
-| 1D100-1D1FF | Musical Symbols                   | 10/211   |
-| 1D400-1D7FF | Mathematical Alphanumeric Symbols | 82/996   |
-| 1F100-1F1FF | Enclosed Alphanumerics Supplement | 59/173   |
+| Range       | Description                           | Coverage |
+|-------------|---------------------------------------|----------|
+| 10190-101CF | Ancient Symbols                       | (all)    |
+| 10330-1034F | Gothic                                | (all)    |
+| 1D100-1D1FF | Musical Symbols                       | 70/220   |
+| 1D300-1D35F | Tai Xuan Jing Symbols                 | (all)    |
+| 1D360-1D37F | Counting Rod Numerals                 | (all)    |
+| 1D400-1D7FF | Mathematical Alphanumeric Symbols     | 82/996   |
+| 1F100-1F1FF | Enclosed Alphanumeric Supplement      | 103/173  |
+| 1F300-1F5FF | Miscellaneous Symbols and Pictographs | 48/768   |
 
 ### PUA Characters - Version 5.0
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
