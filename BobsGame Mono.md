@@ -4,7 +4,7 @@
 BobsGame Mono is presently available in Regular weight.
 
 ### Installation
-http://bobsgame.wikia.com/wiki/Category:Fonts
+http://bobsgame.wikia.com/wiki/Category:Fonts (Use https for the protocol if you're logged in to Wikia or connected with Facebook or Twitter.)
 
 ### Supported Characters
 The current release includes support for the characters listed below.
