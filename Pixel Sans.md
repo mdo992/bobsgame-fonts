@@ -79,6 +79,7 @@ The current release includes support for the characters listed below.
 | AB30-AB6F | Latin Extended-E                        | (all)    |
 | AB70-ABBF | Cherokee Supplement                     | (all)    |
 | FB00-FB4F | Alphabetic Presentation Forms           | (all)    |
+| FE20-FE2F | Combining Half Marks                    | (all)    |
 | FF00-FFEF | Halfwidth and Fullwidth Forms           | 2/222    |
 | FFF0-FFFF | Specials                                | 1/5      |
 
