@@ -29,13 +29,13 @@ The current release includes support for the characters listed below.
 | 1DC0-1DFF | Combining Diacritical Marks Supplement | 10/59    |
 | 1E00-1EFF | Latin Extended Additional              | (all)    |
 | 1F00-1FFF | Greek Extended                         | (all)    |
-| 2000-206F | General Punctuation                    | 74/111   |
+| 2000-206F | General Punctuation                    | 78/111   |
 | 2070-209F | Superscripts and Subscripts            | (all)    |
 | 20A0-20CF | Currency Symbols                       | (all)    |
-| 2100-214F | Letterlike Symbols                     | 30/80    |
+| 2100-214F | Letterlike Symbols                     | 40/80    |
 | 2150-218F | Number Forms                           | 18/60    |
 | 2190-21FF | Arrows                                 | 13/112   |
-| 2200-22FF | Mathematical Operators                 | 86/256   |
+| 2200-22FF | Mathematical Operators                 | 87/256   |
 | 2300-23FF | Miscellaneous Technical                | 42/255   |
 | 2400-243F | Control Pictures                       | 20/39    |
 | 2500-257F | Box Drawing                            | 17/128   |
@@ -55,5 +55,5 @@ The current release includes support for the characters listed below.
 | A720-A7FF | Latin Extended-D                       | 97/160   |
 | A830-A83F | Common Indic Number Forms              | (all)    |
 | AB30-AB6F | Latin Extended-E                       | 25/54    |
-| FB00-FB4F | Alphabetic Presentation Forms          | 5/58     |
+| FB00-FB4F | Alphabetic Presentation Forms          | 7/58     |
 | FFF0-FFFF | Specials                               | 1/5      |
