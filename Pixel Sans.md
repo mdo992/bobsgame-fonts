@@ -94,14 +94,14 @@ The current release includes support for the characters listed below.
 | 1D300-1D35F | Tai Xuan Jing Symbols                 | (all)    |
 | 1D360-1D37F | Counting Rod Numerals                 | (all)    |
 | 1D400-1D7FF | Mathematical Alphanumeric Symbols     | 82/996   |
-| 1F100-1F1FF | Enclosed Alphanumeric Supplement      | 124/240  |
+| 1F100-1F1FF | Enclosed Alphanumeric Supplement      | 138/240  |
 | 1F300-1F5FF | Miscellaneous Symbols and Pictographs | 48/768   |
 
 ### PUA Characters - Version 8.0
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * E004-E7FD – Latin letters (TITUS)
 * E801-E804 – Hebrew Microsoft PUA
-* E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gandhari Unicode stuff
+* E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gāndhārī Unicode stuff
 * EA00-EB94 – Greek letters (TITUS)
 * EAA0-EAB6 – Glyphs for old SIL Encore font engine
 * EC00-EDFE – Georgian extensions (TITUS)
