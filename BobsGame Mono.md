@@ -32,11 +32,11 @@ The current release includes support for the characters listed below.
 | 1DC0-1DFF | Combining Diacritical Marks Supplement  | 18/59    |
 | 1E00-1EFF | Latin Extended Additional               | (all)    |
 | 1F00-1FFF | Greek Extended                          | (all)    |
-| 2000-206F | General Punctuation                     | 82/111   |
+| 2000-206F | General Punctuation                     | 83/111   |
 | 2070-209F | Superscripts and Subscripts             | (all)    |
 | 20A0-20CF | Currency Symbols                        | (all)    |
 | 20D0-20FF | Combining Diacritical Marks for Symbols | (all)    |
-| 2100-214F | Letterlike Symbols                      | 70/80    |
+| 2100-214F | Letterlike Symbols                      | 71/80    |
 | 2150-218F | Number Forms                            | 29/60    |
 | 2190-21FF | Arrows                                  | 83/112   |
 | 2200-22FF | Mathematical Operators                  | 200/256  |
