@@ -94,7 +94,7 @@ The current release includes support for the characters listed below.
 | 1D300-1D35F | Tai Xuan Jing Symbols                 | (all)    |
 | 1D360-1D37F | Counting Rod Numerals                 | (all)    |
 | 1D400-1D7FF | Mathematical Alphanumeric Symbols     | 82/996   |
-| 1F100-1F1FF | Enclosed Alphanumeric Supplement      | 103/173  |
+| 1F100-1F1FF | Enclosed Alphanumeric Supplement      | 124/240  |
 | 1F300-1F5FF | Miscellaneous Symbols and Pictographs | 48/768   |
 
 ### PUA Characters - Version 8.0
