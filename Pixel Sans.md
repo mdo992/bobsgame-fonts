@@ -191,7 +191,7 @@ The current release includes support for the characters listed below.
 * F8FF – Apple logo
 
 ### Font Linking (Windows)
-Add four keys named **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink: "Pixel Sans Fallback.ttf,Pixel Sans Fallback" and restart the computer.
+Add keys named **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink: "Pixel Sans Fallback.ttf,Pixel Sans Fallback" and restart the computer.
 
 The same goes for Wine which is a Windows compatibility layer for Linux distributions.
 
