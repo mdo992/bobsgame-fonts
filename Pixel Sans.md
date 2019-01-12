@@ -203,6 +203,6 @@ Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 
 ### Setting Pixel Sans Fallback as default for Japanese and Korean in internet browsers
 1. Clone the repository, download the zipped archive or the font separately.
 2. Go to any website or page written or translated in Japanese or Korean. Example: [Seesaa Wiki animation staff database page list](https://seesaawiki.jp/w/radioi_34/l/), in Japanese only.
-3. Open up the settings in your browser.
+3. Open up the font settings in your browser
 4. Select Pixel Sans Fallback as the default sans-serif font for Japanese and Korean.
-5. Use 8 points as the font size in Netscape or Mozilla. Haiku users running WebPositive will appreciate that 10 points has to be used. OS/2 users will appreciate that 12 points has to be used.
+5. Use 8 points as the font size in Netscape or Mozilla. Other operating systems: use 10 points for Haiku and iku users running WebPositive will appreciate that 10 points has to be used. OS/2 users will appreciate that 12 points has to be used.
