@@ -191,18 +191,18 @@ The current release includes support for the characters listed below.
 * F8FF – Apple logo
 
 ### Font Linking (Windows)
-Add keys named **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to HKEY_LOCAL_MACHINE\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink: "Pixel Sans Fallback.ttf,Pixel Sans Fallback" and restart the computer.
+Use the built-in Windows registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink with Pixel Sans Fallback.ttf,Pixel Sans Fallback as value and restart the computer.
 
 The same goes for Wine which is a Windows compatibility layer for Linux distributions.
 
 Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
 ### Font Linking (OS/2)
-Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 WARP 4.52 Server for e-Business and above) to edit the system profile (os2.ini). Go to PM_SystemFonts and add a key named PM_AssociateFont with "Pixel Sans Fallback,12" as the data.
+Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 WARP 4.52 Server for e-Business and above) to edit the system profile (os2.ini). Go to PM_SystemFonts and add the PM_AssociateFont key with "Pixel Sans Fallback,12" as the data and restart the computer.
 
-### Setting Pixel Sans Fallback as the default font for Japanese and Korean in internet browsers
+### Setting Pixel Sans Fallback as default for Japanese and Korean in internet browsers
 1. Clone the repository, download the zipped archive or the font separately.
 2. Go to any website or page written or translated in Japanese or Korean. Example: [Seesaa Wiki animation staff database page list](https://seesaawiki.jp/w/radioi_34/l/), in Japanese only.
 3. Open up the settings in your browser.
 4. Select Pixel Sans Fallback as the default sans-serif font for Japanese and Korean.
-5. Use 8 points as the font size in Netscape or Mozilla. Haiku users will appreciate that 10 points has to be used. OS/2 users will appreciate that 12 points has to be used.
+5. Use 8 points as the font size in Netscape or Mozilla. Haiku users running WebPositive will appreciate that 10 points has to be used. OS/2 users will appreciate that 12 points has to be used.
