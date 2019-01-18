@@ -30,7 +30,8 @@ The current release includes support for the characters listed below.
 | 16A0-16FF | Runic                                   | (all)    |
 | 1980-19DF | New Tai Lue                             | (all)    |
 | 1AB0-1AFF | Combining Diacritical Marks Extended    | (all)    |
-| 1C80-1CFF | Cyrillic Extended-C                     | (all)    |
+| 1C80-1C8F | Cyrillic Extended-C                     | (all)    |
+| 1C90-1CBF | Georgian Extended                       | (all)    |
 | 1D00-1D7F | Phonetic Extensions                     | (all)    |
 | 1D80-1DBF | Phonetic Extensions Supplement          | (all)    |
 | 1DC0-1DFF | Combining Diacritical Marks Supplement  | (all)    |
@@ -190,10 +191,8 @@ The current release includes support for the characters listed below.
 * F884 – Pokémon currency, usually mapped to the dollar sign ($) in Pokémon games
 * F8FF – Apple logo
 
-### Font Linking (Windows)
+### Font Linking (Windows and Wine)
 Use the built-in Windows registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink with Pixel Sans Fallback.ttf,Pixel Sans Fallback as value and restart the computer.
-
-The same goes for Wine which is a Windows compatibility layer for Linux distributions.
 
 Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
