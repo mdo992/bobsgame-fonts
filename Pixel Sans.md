@@ -192,7 +192,7 @@ The current release includes support for the characters listed below.
 * F8FF – Apple logo
 
 ### Font Linking (Windows and Wine)
-Use the built-in Windows registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink with Pixel Sans Fallback.ttf,Pixel Sans Fallback as value and restart the computer.
+Use the built-in registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink with Pixel Sans Fallback.ttf,Pixel Sans Fallback as value and restart the computer.
 
 Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
