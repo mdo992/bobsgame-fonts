@@ -4,7 +4,7 @@
 Pixel Sans is presently available in Regular weight.
 
 ### Installation
-http://bobsgame.wikia.com/wiki/Category:Fonts (Use https for the protocol if you're logged in to Wikia or connected with Facebook or Twitter.)
+https://bobsgame.fandom.com/wiki/Category:Fonts
 
 ### Supported Characters (BMP)
 The current release includes support for the characters listed below.
@@ -99,7 +99,7 @@ The current release includes support for the characters listed below.
 | 1F300-1F5FF | Miscellaneous Symbols and Pictographs | 48/768   |
 
 ### PUA Characters - Version 8.0
-The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
+The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * E004-E7FD – Latin letters (TITUS)
 * E801-E804 – Hebrew Microsoft PUA
 * E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gāndhārī Unicode stuff
