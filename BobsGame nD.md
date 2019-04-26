@@ -1,10 +1,10 @@
-## BobsGame nD Font - Version 6.0
+﻿## BobsGame nD Font - Version 6.0
 
 ### Introductions
 BobsGame nD is presently available in Regular weight.
 
 ### Installation
-http://bobsgame.wikia.com/wiki/Category:Fonts (Use https for the protocol if you're logged in to Wikia or connected with Facebook or Twitter.)
+https://bobsgame.fandom.com/wiki/Category:Fonts
 
 ### Supported Characters
 The current release includes support for the characters listed below.
@@ -49,7 +49,7 @@ The current release includes support for the characters listed below.
 | 2A00-2AFF | Supplemental Mathematical Operators    | 15/256   |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows       | 8/206    |
 | 2C60-2C6F | Latin Extended-C                       | (all)    |
-| 2E00-2E7F | Supplemental Punctuation               | 66/69    |
+| 2E00-2E7F | Supplemental Punctuation               | (all)    |
 | 3000-3FFF | CJK Symbols and Punctuation            | 27/64    |
 | 3040-309F | Hiragana                               | 91/93    |
 | 30A0-30FF | Katakana                               | (all)    |
@@ -67,5 +67,5 @@ The current release includes support for the characters listed below.
 | FFF0-FFFF | Specials                               | 1/5      |
 
 ### PUA Characters
-The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
+The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * E004-E7FD – Latin letters (TITUS)

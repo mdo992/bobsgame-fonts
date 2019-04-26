@@ -1,10 +1,10 @@
-## BobsGame Mono Font - Version 6.0
+﻿## BobsGame Mono Font - Version 6.0
 
 ### Introductions
 BobsGame Mono is presently available in Regular weight.
 
 ### Installation
-http://bobsgame.wikia.com/wiki/Category:Fonts (Use https for the protocol if you're logged in to Wikia or connected with Facebook or Twitter.)
+https://bobsgame.fandom.com/wiki/Category:Fonts
 
 ### Supported Characters
 The current release includes support for the characters listed below.
@@ -27,9 +27,9 @@ The current release includes support for the characters listed below.
 | 10A0-10FF | Georgian                                | (all)    |
 | 16A0-16FF | Runic                                   | 2/89     |
 | 1C80-1CFF | Cyrillic Extended-C                     | 6/9      |
-| 1D00-1D7F | Phonetic Extensions                     | 90/128   |
-| 1D80-1DBF | Phonetic Extensions Supplement          | 29/64    |
-| 1DC0-1DFF | Combining Diacritical Marks Supplement  | 18/59    |
+| 1D00-1D7F | Phonetic Extensions                     | 104/128  |
+| 1D80-1DBF | Phonetic Extensions Supplement          | 48/64    |
+| 1DC0-1DFF | Combining Diacritical Marks Supplement  | 54/63    |
 | 1E00-1EFF | Latin Extended Additional               | (all)    |
 | 1F00-1FFF | Greek Extended                          | (all)    |
 | 2000-206F | General Punctuation                     | 83/111   |
@@ -68,7 +68,7 @@ The current release includes support for the characters listed below.
 | FFF0-FFFF | Specials                                | 1/5      |
 
 ### PUA Characters
-The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, [Fixedsys Excelsior](http://www.fixedsysexcelsior.com/) and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
+The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gandhari Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * E004-E7FD – Latin letters with diacritics (TITUS)
 * EA00-EB94 – Greek letters with diacritics (TITUS)
 * EAA0-EAB6 – Glyphs for old SIL Encore font engine
