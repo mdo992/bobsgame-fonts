@@ -1,6 +1,6 @@
 # bobsgame-fonts
 Ordinary Unicode fonts for use with [bob's game](https://github.com/bobsgame/bobsgame) and non-OpenType-savvy programs (e.g. Haansoft Hangul NEO).
-* My own version of **BobsGame** font with revised glyphs and support for more glyphs like vowels with umlauts. In Windows Vista and newer, the ttf font shows the preview as ∑√≠ instead of Abg.
+* My own version of **BobsGame** font with revised glyphs and support for more glyphs like vowels with umlauts. In Windows Vista and newer, the ttf font preview is shown as ∑√≠.
 * **BobsGame Big** – Based on the font used in Mario & Luigi RPG games for the Nintendo DS. This font was created in 2012-12-20.
 * **BobsGame Mono** – A modified version of “System VIO” included in OS/2 with revised glyphs and support for more glyphs. The cancelled OS/2 subset was created in 2015-01-08. The game author hosted this in the Bob Corporation website in December and removed it.
 * **BobsGame nD** – A modified version of the font in third/fourth generation Pokémon games with revised glyphs and support for more glyphs. The font will be used for nDworld.
@@ -14,14 +14,14 @@ Ordinary Unicode fonts for use with [bob's game](https://github.com/bobsgame/bob
 * **FontCreator 5.6** – Shareware Licensed Software
 * **Microsoft Paintbrush, Windows XP version** – Software distributed with Windows
 * **NFTREdit** – Freeware Licensed Software
-* **Tinke** – GPL 3.0 Licensed Open Source Software
+* **Tinke** – GNU GPL 3.0 Licensed Open Source Software
 
 ## Installation Instructions
 See the fonts category on the Bob's Game FANDOM portal in the .md files for installation instructions.
 
 ## NFTR Installation Instructions
 The NFTR for Pixel Sans Textbook font includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
-1. Download the More English Training European ROM from ROM hosting sites (e.g. ROM Hustler or Emuparadise) and open it.
+1. Download the More English Training European ROM from ROM sites (e.g. ROM Hustler or Emuparadise) and open it.
 2. You see a file called **European_LC12.NFTR** in common/fonts/data.
 3. Press **Change file** to replace the file.
 4. Press **Save ROM** to save the ROM in a new name.
