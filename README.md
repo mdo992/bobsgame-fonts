@@ -1,6 +1,6 @@
 # bobsgame-fonts
 Ordinary Unicode fonts for use with [bob's game](https://github.com/bobsgame/bobsgame) and non-OpenType-savvy programs (e.g. Haansoft Hangul NEO or Word 2007).
-* My own version of **BobsGame** font with revised glyphs and support for more glyphs like vowels with umlauts. In Windows Vista and newer, the ttf font shows as ∑√≠ which is used by mathematic fonts.
+* My own version of **BobsGame** font with revised glyphs and support for more glyphs like vowels with umlauts.
 * **BobsGame Big** – Based on the font used in Mario & Luigi RPG games for the Nintendo DS. This font was created in 2012-12-20.
 * **BobsGame Mono** – A modified version of the OS/2 font “System VIO” with revised glyphs and support for more glyphs. The game author hosted this in the Bob Corporation website in December and removed it.
 * **BobsGame nD** – A modified version of the font in third/fourth generation Pokémon games with revised glyphs and support for more glyphs. The font will be used for nDworld. In Windows Vista and newer, the ttf font shows as あア亜 (Kanji letter not included in this font), which is used by Japanese fonts.
@@ -20,7 +20,7 @@ Ordinary Unicode fonts for use with [bob's game](https://github.com/bobsgame/bob
 See the fonts category on the Bob's Game FANDOM portal in the .md files for installation instructions.
 
 ## NFTR Installation Instructions
-The NFTR for Pixel Sans Textbook font includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
+The NFTR file based on Pixel Sans Textbook includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
 1. Download the More English Training European ROM from ROM sites (e.g. ROM Hustler or Emuparadise) and open it.
 2. You see a file called **European_LC12.NFTR** in common/fonts/data.
 3. Press **Change file** to replace the file.
