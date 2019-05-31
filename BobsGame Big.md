@@ -24,8 +24,8 @@ The current release includes support for the characters listed below.
 | 0530-058F | Armenian                               | 8/89     |
 | 0590-05FF | Hebrew                                 | 44/87    |
 | 0E00-0E7F | Thai                                   | 2/87     |
-| 1D00-1D7F | Phonetic Extensions                    | 66/128   |
-| 1D80-1DBF | Phonetic Extensions Supplement         | 28/64    |
+| 1D00-1D7F | Phonetic Extensions                    | 86/128   |
+| 1D80-1DBF | Phonetic Extensions Supplement         | 30/64    |
 | 1DC0-1DFF | Combining Diacritical Marks Supplement | 15/63    |
 | 1E00-1EFF | Latin Extended Additional              | (all)    |
 | 1F00-1FFF | Greek Extended                         | (all)    |
@@ -47,13 +47,13 @@ The current release includes support for the characters listed below.
 | 2A00-2AFF | Supplemental Mathematical Operators    | 37/256   |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows       | 6/206    |
 | 2C60-2C7F | Latin Extended-C                       | (all)    |
-| 2E00-2E5F | Supplemental Punctuation               | 33/80    |
+| 2E00-2E5F | Supplemental Punctuation               | 42/80    |
 | 3000-303F | CJK Symbols and Punctuation            | 3/64     |
 | A4D0-A4FF | Lisu                                   | (all)    |
 | A640-A69F | Cyrillic Extended-A                    | 30/96    |
 | A700-A71F | Modifier Tone Letters                  | (all)    |
-| A720-A7FF | Latin Extended-D                       | 124/174  |
+| A720-A7FF | Latin Extended-D                       | 128/174  |
 | A830-A83F | Common Indic Number Forms              | (all)    |
-| AB30-AB6F | Latin Extended-E                       | 28/56    |
+| AB30-AB6F | Latin Extended-E                       | 34/56    |
 | FB00-FB4F | Alphabetic Presentation Forms          | 7/58     |
 | FFF0-FFFF | Specials                               | 1/5      |
