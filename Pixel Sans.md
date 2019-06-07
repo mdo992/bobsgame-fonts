@@ -26,9 +26,7 @@ The current release includes support for the characters listed below.
 | 0E00-0E7F | Thai                                    | (all)    |
 | 10A0-10FF | Georgian                                | (all)    |
 | 13A0-13FF | Cherokee                                | (all)    |
-| 1680-169F | Ogham                                   | (all)    |
 | 16A0-16FF | Runic                                   | (all)    |
-| 1980-19DF | New Tai Lue                             | (all)    |
 | 1AB0-1AFF | Combining Diacritical Marks Extended    | (all)    |
 | 1C80-1C8F | Cyrillic Extended-C                     | (all)    |
 | 1C90-1CBF | Georgian Extended                       | (all)    |
@@ -197,11 +195,11 @@ Use the built-in registry editor to add **Pixel Sans**, **Pixel Sans Terminal** 
 Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
 ### Font Linking (OS/2)
-Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 WARP 4.52 Server for e-Business and above) to edit the system profile (os2.ini). Go to PM_SystemFonts and add the PM_AssociateFont key with "Pixel Sans Fallback,12" as the data and restart the computer.
+Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 WARP 4.52 Server for e-Business and above) to edit the system profile (```os2.ini```). Go to ```PM_SystemFonts``` and add the ```PM_AssociateFont``` key with "Pixel Sans Fallback,12" as the data and restart the computer.
 
 ### Setting Pixel Sans Fallback as default for Japanese and Korean in internet browsers
 1. Clone the repository, download the zipped archive or the font separately.
-2. Go to any website or page written or translated in Japanese or Korean. Example: [Seesaa Wiki animation staff database page list](https://seesaawiki.jp/w/radioi_34/l/), in Japanese only.
+2. Go to any website in Japanese or Korean. Example: [Seesaa Wiki animation staff database page list](https://seesaawiki.jp/w/radioi_34/l/), in Japanese only / 日本語のみ.
 3. Open up the font settings in your browser.
 4. Select Pixel Sans Fallback as the default sans-serif font for Japanese and Korean.
 5. Use 8 points as the font size in Netscape or Mozilla. Other operating systems: use 10 points for Haiku and 12 points for OS/2.
