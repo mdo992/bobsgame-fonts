@@ -69,3 +69,13 @@ The current release includes support for the characters listed below.
 ### PUA Characters
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * E004-E7FD – Latin letters (TITUS)
+* E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gāndhārī Unicode
+* EA00-EB94 – Greek letters (TITUS)
+* EAA0-EAB6 – Glyphs for old SIL Encore font engine
+* EE01-EEAD – Cyrillic letters (TITUS)
+* F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
+* F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, these letters are only available in lowercase
+* F638 – slashed zero (Fixedsys Excelsior)
+* F664-F669 – Symbols from Zone of the Enders: The Fist of Mars
+* F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
+* F8FF – Apple logo

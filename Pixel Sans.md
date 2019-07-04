@@ -114,7 +114,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F700, F70F – Thai Microsoft PUA
 * F72A, F73A, F74A, F751, F754, F764, F76B, F770, F772, F774, F77E, F782, F789, F78B-F78D, F790, F792-F794, F7A2, F7A9, F7AB-F7AD, F7BA-F7BF, F7C0-F7C1, F7C4-F7C5, F7C9, F7CC, F7CE-F7D1, F7D6-F7D7, F7DB-F7DC, F7E0-F7E1, F7E5, F7E9, F7EE-F7F1, F7F6-F7F7, F7FB-F7FC, F7FE, F889-F8C7 – Fullwidth extensions, Textbook only
-* F799, F7CA – Capital J without serif, used in Pokémon Black & White (Textbook only)
+* F7CA – Capital J without serif, used in Pokémon Black & White (Textbook only)
 * F7E4 – Alternative Cyrillic “be”, used in Serbian and Macedonian languages
 * F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages
@@ -183,7 +183,7 @@ The current release includes support for the characters listed below.
 * F638, F6DC – Adobe PUA
 * F78D, F7AD, F7B0-F7BF – Fullwidth Letters with Diacritics
 * F82E – Tri Force sign
-* F82F – ? block, used in the Mario series of games
+* F82F – ? block, used in Mario games
 * F884 – Pokémon currency, usually mapped to the dollar sign ($) in Pokémon games
 * F8FF – Apple logo
 
@@ -193,7 +193,10 @@ Use the built-in registry editor to add **Pixel Sans**, **Pixel Sans Terminal** 
 Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
 ### Font Linking (OS/2)
-Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 WARP 4.52 Server for e-Business and above) to edit the system profile (`os2.ini`). Go to `PM_SystemFonts` and add the `PM_AssociateFont` key with "Pixel Sans Fallback,12" as the data and restart the computer.
+1. Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 WARP 4.52 Server for e-Business and above) to edit the system profile (`os2.ini`).
+2. Go to `PM_SystemFonts`.
+3. Add the `PM_AssociateFont` key and enter `Pixel Sans Fallback,12` as the data
+4. Restart the computer for the changes to take effect.
 
 ### Setting Pixel Sans Fallback as default for Japanese and Korean in internet browsers
 1. Clone the repository, download the zipped archive or the font separately.
