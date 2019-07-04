@@ -50,7 +50,7 @@ The current release includes support for the characters listed below.
 | 2500-257F | Box Drawing                             | (all)    |
 | 2589-259F | Block Elements                          | (all)    |
 | 25A0-25FF | Geometric Shapes                        | (all)    |
-| 2600-26FF | Miscellaneous Symbols                   | 247/256  |
+| 2600-26FF | Miscellaneous Symbols                   | 247/256  |
 | 2700-27BF | Dingbats                                | (all)    |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | (all)    |
 | 27F0-27FF | Supplemental Arrows-A                   | (all)    |
@@ -58,7 +58,6 @@ The current release includes support for the characters listed below.
 | 2980-29FF | Miscellaneous Mathematical Symbols-B    | (all)    |
 | 2A00-2AFF | Supplemental Mathematical Operators     | (all)    |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows        | (all)    |
-| 2C00-2C5F | Glagolitic                              | (all)    |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2C80-2CFF | Coptic                                  | (all)    |
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
@@ -66,7 +65,7 @@ The current release includes support for the characters listed below.
 | 2DE0-2DFF | Cyrillic Extended-A                     | (all)    |
 | 2E00-2E7F | Supplemental Punctuation                | (all)    |
 | 2FF0-2FFF | Ideographic Description Characters      | (all)    |
-| 3000-3FFF | CJK Symbols and Punctuation             | 22/64    |
+| 3000-3FFF | CJK Symbols and Punctuation             | 22/64    |
 | 3200-32FF | Enclosed CJK Letters and Months         | 39/253   |
 | 3300-33FF | CJK Compatibility                       | 2/256    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                 | (all)    |
@@ -107,7 +106,6 @@ The current release includes the PUA characters listed below. The allocation of 
 * EE01-EEAD – Cyrillic letters (TITUS)
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F4D0-F4D9 – lowercase descending numerals
-* F4E0, F4E5, F4F0, F4F3, F4F4, F4F8 – Schoolbook alternates for small letters, Textbook only
 * F4EA, F50A – long k
 * F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, italics are only available in lowercase
 * F5CC – Oblique Hyphen
@@ -195,7 +193,7 @@ Use the built-in registry editor to add **Pixel Sans**, **Pixel Sans Terminal** 
 Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
 ### Font Linking (OS/2)
-Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 WARP 4.52 Server for e-Business and above) to edit the system profile (```os2.ini```). Go to ```PM_SystemFonts``` and add the ```PM_AssociateFont``` key with "Pixel Sans Fallback,12" as the data and restart the computer.
+Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 WARP 4.52 Server for e-Business and above) to edit the system profile (`os2.ini`). Go to `PM_SystemFonts` and add the `PM_AssociateFont` key with "Pixel Sans Fallback,12" as the data and restart the computer.
 
 ### Setting Pixel Sans Fallback as default for Japanese and Korean in internet browsers
 1. Clone the repository, download the zipped archive or the font separately.
