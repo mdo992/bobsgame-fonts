@@ -162,7 +162,7 @@ The current release includes support for the characters listed below.
 | 3190-319F | Kanbun                             | (all)      |
 | 31A0-31BF | Bopomofo Extended                  | 24/26      |
 | 31F0-31FF | Katakana Phonetic Extensions       | (all)      |
-| 3200-32FF | Enclosed CJK Letters and Months    | 251/254    |
+| 3200-32FF | Enclosed CJK Letters and Months    | 251/255    |
 | 3300-33FF | CJK Compatibility                  | (all)      |
 | 4E00-9FEF | CJK Unified Ideographs             | 6371/20902 |
 | A960-A97F | Hangul Jamo Extended-A             | (all)      |
@@ -175,8 +175,8 @@ The current release includes support for the characters listed below.
 | FFF0-FFFF | Specials                           | 1/5        |
 
 ### PUA Characters
-* E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Nintendo DS/Wii symbols
-* E06C – MySims symbol
+* E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Symbols used in Nintendo DS and Wii
+* E06C – MySims currency symbol
 * E2D1-E30C, E320-E337 – Additional Japanese glyphs
 * E34C-E34E, EC7B-EC7E – Nut Fractions
 * F638, F6DC – Adobe PUA
@@ -192,7 +192,7 @@ Use the built-in registry editor to add **Pixel Sans**, **Pixel Sans Terminal** 
 Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
 ### Font Linking (OS/2)
-1. Use any OS/2 INI editor, e.g. INITOR or the built-in OS/2 registry editor (OS/2 WARP 4.52 Server for e-Business and above) to edit the system profile (`os2.ini`).
+1. Use any OS/2 INI editor, e.g. INITOR or the built-in registry editor from OS/2 WARP 4.52 Server for e-Business and above to edit the system profile (`os2.ini`).
 2. Go to `PM_SystemFonts`.
 3. Add the `PM_AssociateFont` key and enter `Pixel Sans Fallback,12` as the data
 4. Restart the computer for the changes to take effect.
