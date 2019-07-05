@@ -25,6 +25,8 @@ The current release includes support for the characters listed below.
 | 0E00-0E7F | Thai                                   | 1/87     |
 | 10A0-10FF | Georgian                               | 1/88     |
 | 16A0-16FF | Runic                                  | 2/89     |
+| 1AB0-1AFF | Combining Diacritical Marks Extended   | (all)    |
+| 1C80-1C8F | Cyrililc Extended-C                    | (all)    |
 | 1D00-1D7F | Phonetic Extensions                    | (all)    |
 | 1D80-1DBF | Phonetic Extensions Supplement         | (all)    |
 | 1DC0-1DFF | Combining Diacritical Marks Supplement | (all)    |
@@ -35,7 +37,7 @@ The current release includes support for the characters listed below.
 | 20A0-20CF | Currency Symbols                       | (all)    |
 | 2100-214F | Letterlike Symbols                     | 62/80    |
 | 2150-218F | Number Forms                           | (all)    |
-| 2190-21FF | Arrows                                 | 35/112   |
+| 2190-21FF | Arrows                                 | 39/112   |
 | 2200-22FF | Mathematical Operators                 | 158/256  |
 | 2300-23FF | Miscellaneous Technical                | 75/255   |
 | 2400-243F | Control Pictures                       | 26/39    |
@@ -54,7 +56,7 @@ The current release includes support for the characters listed below.
 | 3040-309F | Hiragana                               | 91/93    |
 | 30A0-30FF | Katakana                               | (all)    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                | (all)    |
-| 4E00-9FEF | CJK Unified Ideographs                 | 9/20902  |
+| 4E00-9FEF | CJK Unified Ideographs                 | 10/20902 |
 | A4D0-A4FF | Lisu                                   | (all)    |
 | A640-A69F | Cyrillic Extended-B                    | (all)    |
 | A700-A71F | Modifier Tone Letters                  | (all)    |
@@ -75,7 +77,6 @@ The current release includes the PUA characters listed below. The allocation of 
 * EE01-EEAD – Cyrillic letters (TITUS)
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, these letters are only available in lowercase
-* F638 – slashed zero (Fixedsys Excelsior)
 * F664-F669 – Symbols from Zone of the Enders: The Fist of Mars
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F8FF – Apple logo
