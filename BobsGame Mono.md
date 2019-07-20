@@ -44,8 +44,8 @@ The current release includes support for the characters listed below.
 | 2400-243F | Control Pictures                        | (all)    |
 | 2440-245F | Optical Character Recognition           | (all)    |
 | 2500-257F | Box Drawing                             | 55/128   |
-| 2589-259F | Block Elements                          | 8/32     |
-| 25A0-25FF | Geometric Shapes                        | 58/255   |
+| 2589-259F | Block Elements                          | 12/32    |
+| 25A0-25FF | Geometric Shapes                        | 69/255   |
 | 2600-26FF | Miscellaneous Symbols                   | 114/256  |
 | 2700-27BF | Dingbats                                | 32/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | 20/48    |
