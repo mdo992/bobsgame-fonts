@@ -53,10 +53,10 @@ The current release includes support for the characters listed below.
 | 2C60-2C6F | Latin Extended-C                       | (all)    |
 | 2E00-2E7F | Supplemental Punctuation               | (all)    |
 | 3000-3FFF | CJK Symbols and Punctuation            | 27/64    |
-| 3040-309F | Hiragana                               | 91/93    |
+| 3040-309F | Hiragana                               | 92/93    |
 | 30A0-30FF | Katakana                               | (all)    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                | (all)    |
-| 4E00-9FEF | CJK Unified Ideographs                 | 10/20902 |
+| 4E00-9FEF | CJK Unified Ideographs                 | 11/20902 |
 | A4D0-A4FF | Lisu                                   | (all)    |
 | A640-A69F | Cyrillic Extended-B                    | (all)    |
 | A700-A71F | Modifier Tone Letters                  | (all)    |
