@@ -1,4 +1,4 @@
-## Pixel Sans Font - Version 8.0
+﻿## Pixel Sans Font - Version 8.0
 
 ### Introductions
 Pixel Sans is presently available in Regular weight.
@@ -91,7 +91,7 @@ The current release includes support for the characters listed below.
 | 1D100-1D1FF | Musical Symbols                       | 70/220   |
 | 1D300-1D35F | Tai Xuan Jing Symbols                 | (all)    |
 | 1D360-1D37F | Counting Rod Numerals                 | (all)    |
-| 1D400-1D7FF | Mathematical Alphanumeric Symbols     | 82/996   |
+| 1D400-1D7FF | Mathematical Alphanumeric Symbols     | 120/996  |
 | 1F100-1F1FF | Enclosed Alphanumeric Supplement      | 138/240  |
 | 1F300-1F5FF | Miscellaneous Symbols and Pictographs | 48/768   |
 
@@ -107,10 +107,9 @@ The current release includes the PUA characters listed below. The allocation of 
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F4D0-F4D9 – lowercase descending numerals
 * F4EA, F50A – long k
-* F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, italics are only available in lowercase
 * F5CC – Oblique Hyphen
 * F638 – slashed zero (Fixedsys Excelsior)
-* F664-F669 – Symbols from Zone of the Enders: The Fist of Mars
+* F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F700, F70F – Thai Microsoft PUA
 * F72A, F73A, F74A, F751, F754, F764, F76B, F770, F772, F774, F77E, F782, F789, F78B-F78D, F790, F792-F794, F7A2, F7A9, F7AB-F7AD, F7BA-F7BF, F7C0-F7C1, F7C4-F7C5, F7C9, F7CA, F7CC, F7CE-F7D1, F7D6-F7D7, F7DB-F7DC, F7E0-F7E1, F7E5, F7E9, F7EE-F7F1, F7F6-F7F7, F7FB-F7FC, F7FE, F889-F8C7 – Fullwidth extensions, Textbook only
@@ -118,7 +117,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages
 * F830-F835 – Latin letters (Quivira)
-* F870-F888 – Symbols in Pokémon Black & White (Textbook only). The font in the game used the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols.
+* F870-F888 – Symbols in *Pokémon Black & White* (Textbook only). The font in the game used the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols.
 * F8FF – Apple logo
 
 ### Supported Characters - Fallback Version 5.0
@@ -176,18 +175,18 @@ The current release includes support for the characters listed below.
 
 ### PUA Characters
 * E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Symbols used in Nintendo DS and Wii
-* E06C – MySims currency symbol
+* E06C – *MySims* currency symbol
 * E2D1-E30C, E320-E337 – Additional Japanese glyphs
 * E34C-E34E, EC7B-EC7E – Nut Fractions
 * F638, F6DC – Adobe PUA
 * F78D, F7AD, F7B0-F7BF – Fullwidth Letters with Diacritics
-* F82E – Tri Force sign
-* F82F – ? block, used in Mario games
+* F82E – *Tri Force* sign
+* F82F – ? block, used by the Mario franchise
 * F884 – Pokémon currency, usually mapped to the dollar sign ($) in Pokémon games
 * F8FF – Apple logo
 
 ### Font Linking (Windows and Wine)
-Use the built-in registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink with Pixel Sans Fallback.ttf,Pixel Sans Fallback as value and restart the computer.
+Use the built-in registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink with `Pixel Sans Fallback.ttf,Pixel Sans Fallback` as value and restart the computer.
 
 Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
 
