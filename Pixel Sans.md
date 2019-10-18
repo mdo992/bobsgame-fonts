@@ -101,18 +101,17 @@ The current release includes the PUA characters listed below. The allocation of 
 * E801-E804 – Hebrew Microsoft PUA
 * E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gāndhārī Unicode
 * EA00-EB94 – Greek letters (TITUS)
-* EAA0-EAB6 – Glyphs for old SIL Encore font engine
+* EAA0-EAB6 – Glyphs used by SIL Encore font engine
 * EC00-EDFE – Georgian extensions (TITUS)
 * EE01-EEAD – Cyrillic letters (TITUS)
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
-* F4D0-F4D9 – lowercase descending numerals
-* F4EA, F50A – long k
+* F4D0-F4D9 – Lowercase descending numerals
+* F4EA, F50A – Long k
 * F5CC – Oblique Hyphen
-* F638 – slashed zero (Fixedsys Excelsior)
+* F638 – Slashed zero (Fixedsys Excelsior)
 * F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F700, F70F – Thai Microsoft PUA
-* F72A, F73A, F74A, F751, F754, F764, F76B, F770, F772, F774, F77E, F782, F789, F78B-F78D, F790, F792-F794, F7A2, F7A9, F7AB-F7AD, F7BA-F7BF, F7C0-F7C1, F7C4-F7C5, F7C9, F7CA, F7CC, F7CE-F7D1, F7D6-F7D7, F7DB-F7DC, F7E0-F7E1, F7E5, F7E9, F7EE-F7F1, F7F6-F7F7, F7FB-F7FC, F7FE, F889-F8C7 – Fullwidth extensions, Textbook only
 * F7E4 – Alternative Cyrillic “be”, used in Serbian and Macedonian languages
 * F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages
