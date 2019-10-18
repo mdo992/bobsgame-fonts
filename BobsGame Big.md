@@ -1,8 +1,5 @@
 ## BobsGame Big Font - Version 6.0
 
-### Introductions
-BobsGame Big is presently available in Regular weight.
-
 ### Installation Instructions
 https://bobsgame.fandom.com/wiki/Category:Fonts
 
@@ -57,3 +54,7 @@ The current release includes support for the characters listed below.
 | AB30-AB6F | Latin Extended-E                       | 34/56    |
 | FB00-FB4F | Alphabetic Presentation Forms          | 7/58     |
 | FFF0-FFFF | Specials                               | 1/5      |
+
+### PUA Characters
+The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
+* E004-E7FD – Latin letters (TITUS)

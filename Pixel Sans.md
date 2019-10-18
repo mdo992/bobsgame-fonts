@@ -1,8 +1,5 @@
 ﻿## Pixel Sans Font - Version 8.0
 
-### Introductions
-Pixel Sans is presently available in Regular weight.
-
 ### Installation
 https://bobsgame.fandom.com/wiki/Category:Fonts
 
@@ -101,7 +98,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * E801-E804 – Hebrew Microsoft PUA
 * E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gāndhārī Unicode
 * EA00-EB94 – Greek letters (TITUS)
-* EAA0-EAB6 – Glyphs used by SIL Encore font engine
+* EAA0-EAB6 – Glyphs for SIL Encore font engine
 * EC00-EDFE – Georgian extensions (TITUS)
 * EE01-EEAD – Cyrillic letters (TITUS)
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
