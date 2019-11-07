@@ -10,10 +10,10 @@ Ordinary Unicode fonts for use with [bob's game](https://github.com/bobsgame/bob
 * **Pixel Sans Textbook** – A modified version of the font used in Western and Korean versions of Pokémon Black & White with revised glyphs and support for more glyphs. This font has the same character set as the non-Fallback version of Pixel Sans.
 
 ## Tools used
-* **CrystalTile2** – GBA game charset finding
-* **FontCreator 5.6** – TrueType font editing
-* **NFTREdit** – NFTR font editing
-* **Tinke** – NFTR font extraction
+* **CrystalTile2** (AngelTeam) – GBA game charset finding
+* **FontCreator 5.6** (High-Logic B.V.) – TrueType font editing
+* **NFTREdit** (DarthNemesis) – NFTR font editing
+* **Tinke** (Benito Palacios Sánchez) – NFTR font extraction
 
 ## Installation Instructions
 See the fonts category on the Bob's Game FANDOM portal in the .md files for installation instructions.
