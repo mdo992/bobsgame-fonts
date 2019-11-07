@@ -132,13 +132,13 @@ The current release includes support for the characters listed below.
 | 1100-11FF | Hangul Jamo                        | 245/246    |
 | 1E00-1EFF | Latin Extended Additional          | 1/256      |
 | 2000-206F | General Punctuation                | 26/111     |
-| 2070-209F | Superscripts and Subscripts        | (all)      |
+| 2070-209F | Superscripts and Subscripts        | 18/42      |
 | 20A0-20CF | Currency Symbols                   | (all)      |
 | 2100-214F | Letterlike Symbols                 | 13/80      |
 | 2150-218F | Number Forms                       | (all)      |
 | 2190-21FF | Arrows                             | 35/112     |
 | 2200-22FF | Mathematical Operators             | 69/256     |
-| 2300-23FF | Miscellaneous Technical            | 27/251     |
+| 2300-23FF | Miscellaneous Technical            | 27/256     |
 | 2400-243F | Control Pictures                   | 1/39       |
 | 2440-245F | Optical Character Recognition      | (all)      |
 | 2460-24FF | Enclosed Alphanumerics             | (all)      |
@@ -152,14 +152,14 @@ The current release includes support for the characters listed below.
 | 3000-3FFF | CJK Symbols and Punctuation        | (all)      |
 | 3040-309F | Hiragana                           | (all)      |
 | 30A0-30FF | Katakana                           | (all)      |
-| 3100-312F | Bopomofo                           | 40/41      |
+| 3100-312F | Bopomofo                           | 40/43      |
 | 3130-318F | Hangul Compatibility Jamo          | (all)      |
 | 3190-319F | Kanbun                             | (all)      |
-| 31A0-31BF | Bopomofo Extended                  | 24/26      |
+| 31A0-31BF | Bopomofo Extended                  | 24/27      |
 | 31F0-31FF | Katakana Phonetic Extensions       | (all)      |
 | 3200-32FF | Enclosed CJK Letters and Months    | 251/255    |
 | 3300-33FF | CJK Compatibility                  | (all)      |
-| 4E00-9FEF | CJK Unified Ideographs             | 6371/20902 |
+| 4E00-9FEF | CJK Unified Ideographs             | 6371/20976 |
 | A960-A97F | Hangul Jamo Extended-A             | (all)      |
 | AC00-D7AF | Hangul Syllables                   | 2439/11172 |
 | D7B0-D7FF | Hangul Jamo Extended-B             | (all)      |
