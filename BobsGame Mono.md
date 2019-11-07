@@ -23,13 +23,13 @@ The current release includes support for the characters listed below.
 | 0E00-0E7F | Thai                                    | 1/87     |
 | 10A0-10FF | Georgian                                | (all)    |
 | 16A0-16FF | Runic                                   | 2/89     |
-| 1C80-1CFF | Cyrillic Extended-C                     | 6/9      |
+| 1C80-1CFF | Cyrillic Extended-C                     | (all)    |
 | 1D00-1D7F | Phonetic Extensions                     | 104/128  |
 | 1D80-1DBF | Phonetic Extensions Supplement          | 48/64    |
 | 1DC0-1DFF | Combining Diacritical Marks Supplement  | 54/63    |
 | 1E00-1EFF | Latin Extended Additional               | (all)    |
 | 1F00-1FFF | Greek Extended                          | (all)    |
-| 2000-206F | General Punctuation                     | 83/111   |
+| 2000-206F | General Punctuation                     | 84/111   |
 | 2070-209F | Superscripts and Subscripts             | (all)    |
 | 20A0-20CF | Currency Symbols                        | (all)    |
 | 20D0-20FF | Combining Diacritical Marks for Symbols | (all)    |
@@ -37,31 +37,32 @@ The current release includes support for the characters listed below.
 | 2150-218F | Number Forms                            | 29/60    |
 | 2190-21FF | Arrows                                  | 83/112   |
 | 2200-22FF | Mathematical Operators                  | 200/256  |
-| 2300-23FF | Miscellaneous Technical                 | 182/255  |
+| 2300-23FF | Miscellaneous Technical                 | 182/256  |
 | 2400-243F | Control Pictures                        | (all)    |
 | 2440-245F | Optical Character Recognition           | (all)    |
 | 2500-257F | Box Drawing                             | 55/128   |
 | 2589-259F | Block Elements                          | 12/32    |
-| 25A0-25FF | Geometric Shapes                        | 69/255   |
-| 2600-26FF | Miscellaneous Symbols                   | 114/256  |
+| 25A0-25FF | Geometric Shapes                        | 71/96    |
+| 2600-26FF | Miscellaneous Symbols                   | 116/256  |
 | 2700-27BF | Dingbats                                | 32/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | 20/48    |
 | 27F0-27FF | Supplemental Arrows-A                   | 10/16    |
-| 2900-297F | Supplemental Arrows-B                   | 63/144   |
+| 2900-297F | Supplemental Arrows-B                   | 63/128   |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B    | 60/128   |
-| 2A00-2AFF | Supplemental Mathematical Operators     | 116/256  |
-| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 36/206   |
+| 2A00-2AFF | Supplemental Mathematical Operators     | 119/256  |
+| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 41/252   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
 | 2E00-2E7F | Supplemental Punctuation                | (all)    |
-| 3000-3FFF | CJK Symbols and Punctuation             | 7/64     |
+| 3000-3FFF | CJK Symbols and Punctuation             | 8/64     |
 | A4D0-A4FF | Lisu                                    | (all)    |
-| A640-A69F | Cyrillic Extended-B                     | 80/96    |
+| A640-A69F | Cyrillic Extended-B                     | 81/96    |
 | A700-A71F | Modifier Tone Letters                   | (all)    |
 | A720-A7FF | Latin Extended-D                        | (all)    |
 | A830-A83F | Common Indic Number Forms               | (all)    |
 | AB30-AB6F | Latin Extended-E                        | (all)    |
 | FB00-FB4F | Alphabetic Presentation Forms           | (all)    |
+| FE20-FE2F | Combining Half Marks                    | (all)    |
 | FFF0-FFFF | Specials                                | 1/5      |
 
 ### PUA Characters

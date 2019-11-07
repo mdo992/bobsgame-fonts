@@ -36,24 +36,25 @@ The current release includes support for the characters listed below.
 | 2150-218F | Number Forms                           | (all)    |
 | 2190-21FF | Arrows                                 | 39/112   |
 | 2200-22FF | Mathematical Operators                 | 158/256  |
-| 2300-23FF | Miscellaneous Technical                | 75/255   |
+| 2300-23FF | Miscellaneous Technical                | 75/256   |
 | 2400-243F | Control Pictures                       | 26/39    |
 | 2400-245F | Optical Character Recognition          | (all)    |
 | 2500-257F | Box Drawing                            | 39/128   |
-| 25A0-25FF | Geometric Shapes                       | 22/255   |
+| 25A0-25FF | Geometric Shapes                       | 22/96    |
 | 2600-26FF | Miscellaneous Symbols                  | 76/256   |
-| 2700-27BF | Dingbats                               | 40/192   |
-| 2900-297F | Supplemental Arrows-B                  | 8/144    |
+| 2700-27BF | Dingbats                               | 34/192   |
+| 27C0-27EF | Miscellaneous Mathematical Symbols-A   | 6/48     |
+| 2900-297F | Supplemental Arrows-B                  | 8/128    |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B   | 11/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators    | 15/256   |
-| 2B00-2BFF | Miscellaneous Symbols and Arrows       | 8/206    |
+| 2B00-2BFF | Miscellaneous Symbols and Arrows       | 8/252    |
 | 2C60-2C6F | Latin Extended-C                       | (all)    |
 | 2E00-2E7F | Supplemental Punctuation               | (all)    |
 | 3000-3FFF | CJK Symbols and Punctuation            | 27/64    |
 | 3040-309F | Hiragana                               | 92/93    |
 | 30A0-30FF | Katakana                               | (all)    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                | (all)    |
-| 4E00-9FEF | CJK Unified Ideographs                 | 11/20902 |
+| 4E00-9FEF | CJK Unified Ideographs                 | 11/20976 |
 | A4D0-A4FF | Lisu                                   | (all)    |
 | A640-A69F | Cyrillic Extended-B                    | (all)    |
 | A700-A71F | Modifier Tone Letters                  | (all)    |
@@ -62,7 +63,7 @@ The current release includes support for the characters listed below.
 | AB30-AB6F | Latin Extended-E                       | (all)    |
 | FB00-FB4F | Alphabetic Presentation Forms          | 12/58    |
 | FE20-FE2F | Combining Half Marks                   | 2/16     |
-| FF00-FFEF | Halfwidth and Fullwidth Forms          | 111/222  |
+| FF00-FFEF | Halfwidth and Fullwidth Forms          | 111/225  |
 | FFF0-FFFF | Specials                               | 1/5      |
 
 ### PUA Characters
