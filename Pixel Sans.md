@@ -54,7 +54,7 @@ The current release includes support for the characters listed below.
 | 2900-297F | Supplemental Arrows-B                   | (all)    |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B    | (all)    |
 | 2A00-2AFF | Supplemental Mathematical Operators     | (all)    |
-| 2B00-2BFF | Miscellaneous Symbols and Arrows        | (all)    |
+| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 70/252   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2C80-2CFF | Coptic                                  | (all)    |
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
