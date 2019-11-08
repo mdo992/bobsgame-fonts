@@ -182,14 +182,12 @@ The current release includes support for the characters listed below.
 * F8FF – Apple logo
 
 ### Font Linking (Windows and Wine)
-Use the built-in registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to HKLM\\SOFTWARE\\Microsoft\\Windows NT\\CurrentVersion\\FontLink\\SystemLink with `Pixel Sans Fallback.ttf,Pixel Sans Fallback` as value and restart the computer.
-
-Japanese and Korean users will appreciate that the backslash is replaced with the glyph from Pixel Sans Fallback.
+Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink` with the value `Pixel Sans Fallback.ttf,Pixel Sans Fallback` and restart the computer.
 
 ### Font Linking (OS/2)
-1. Use any OS/2 INI editor, e.g. INITOR or the built-in registry editor from OS/2 WARP 4.52 Server for e-Business and above to edit the system profile (`os2.ini`).
+1. Use any OS/2 INI editor, e.g. INITOR or the registry editor from OS/2 WARP 4.52 Server for e-Business and above to edit the system profile (`os2.ini`).
 2. Go to `PM_SystemFonts`.
-3. Add the `PM_AssociateFont` key and enter `Pixel Sans Fallback,12` as the data
+3. Add the `PM_AssociateFont` key and enter `Pixel Sans Fallback,12` as the data.
 4. Restart the computer for the changes to take effect.
 
 ### Setting Pixel Sans Fallback as default for Japanese and Korean in internet browsers
