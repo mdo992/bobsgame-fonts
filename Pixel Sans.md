@@ -3,7 +3,7 @@
 ### Installation
 https://bobsgame.fandom.com/wiki/Category:Fonts
 
-### Supported Characters (BMP)
+### Supported Characters
 The current release includes support for the characters listed below.
 
 | Range     | Description                             | Coverage |
@@ -54,7 +54,7 @@ The current release includes support for the characters listed below.
 | 2900-297F | Supplemental Arrows-B                   | (all)    |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B    | (all)    |
 | 2A00-2AFF | Supplemental Mathematical Operators     | (all)    |
-| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 70/252   |
+| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 248/256  |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2C80-2CFF | Coptic                                  | (all)    |
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
@@ -78,20 +78,6 @@ The current release includes support for the characters listed below.
 | FF00-FFEF | Halfwidth and Fullwidth Forms           | 2/222    |
 | FFF0-FFFF | Specials                                | 1/5      |
 
-### Supported Characters (SMP)
-The current release includes support for the characters listed below.
-
-| Range       | Description                           | Coverage |
-|-------------|---------------------------------------|----------|
-| 10190-101CF | Ancient Symbols                       | (all)    |
-| 10330-1034F | Gothic                                | (all)    |
-| 1D100-1D1FF | Musical Symbols                       | 70/220   |
-| 1D300-1D35F | Tai Xuan Jing Symbols                 | (all)    |
-| 1D360-1D37F | Counting Rod Numerals                 | (all)    |
-| 1D400-1D7FF | Mathematical Alphanumeric Symbols     | 120/996  |
-| 1F100-1F1FF | Enclosed Alphanumeric Supplement      | 138/240  |
-| 1F300-1F5FF | Miscellaneous Symbols and Pictographs | 48/768   |
-
 ### PUA Characters - Version 8.0
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * E004-E7FD – Latin letters (TITUS)
@@ -103,7 +89,8 @@ The current release includes the PUA characters listed below. The allocation of 
 * EE01-EEAD – Cyrillic letters (TITUS)
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F4D0-F4D9 – Lowercase descending numerals
-* F4EA, F50A – Long k
+* F4E3 – Copyleft
+* F4E9 – Capital J without serif (Textbook only)
 * F5CC – Oblique Hyphen
 * F638 – Slashed zero (Fixedsys Excelsior)
 * F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
