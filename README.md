@@ -5,7 +5,7 @@ Ordinary Unicode fonts for use with [bob's game](https://github.com/bobsgame/bob
 * **BobsGame Mono** – A modified version of the “System VIO” font from OS/2 with revised glyphs and support for more glyphs. The game author uploaded it to the Bob Corporation website in December 2015 and removed it.
 * **BobsGame nD** – A modified version of the font in third/fourth generation Pokémon games with revised glyphs and support for more glyphs. The font will be used for nDworld. Windows Vista and newer fakes the font preview as Japanese (11 Kanji letters are included in this font).
 * **Pixel Sans** – Based on the font used in many Nintendo 3DS, Game Boy Advance and Nintendo DS games. This font was created in 2015 under the name of **DS Sans**.
-* **Pixel Sans Fallback** – For use in Japanese and Korean versions when the [game author](https://github.com/robertpelloni) makes the game fully translatable.
+* **Pixel Sans Fallback** – For use in Japanese and Korean versions when the [game author](https://github.com/robertpelloni) makes the game fully translatable. `fc-scan` does not show Japanese or Korean in the language fields.
 * **Pixel Sans Terminal** – An alternate version with lowercase letters changed to match the font used in the pay shareware text editor [UniPad](http://www.unipad.org/) by Sharmahd Computing (1997-2006).
 * **Pixel Sans Textbook** – A modified version of the font used in Western and Korean versions of Pokémon Black & White with revised glyphs and support for more glyphs. This font has the same character set as the non-Fallback version of Pixel Sans.
 
@@ -19,7 +19,7 @@ Ordinary Unicode fonts for use with [bob's game](https://github.com/bobsgame/bob
 See the fonts category on the Bob's Game FANDOM portal in the .md files for installation instructions.
 
 ## NFTR Installation Instructions
-The NFTR file based on Pixel Sans Textbook includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
+The NFTR based on Pixel Sans Textbook includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
 1. Download the More English Training European ROM from ROM sites (e.g. ROM Hustler or Emuparadise) and open it.
 2. You see a file called **European_LC12.NFTR** in `common/fonts/data`.
 3. Press **Change file** to replace the file.
