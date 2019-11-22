@@ -36,22 +36,22 @@ The current release includes support for the characters listed below.
 | 2150-218F | Number Forms                           | (all)    |
 | 2190-21FF | Arrows                                 | 39/112   |
 | 2200-22FF | Mathematical Operators                 | 158/256  |
-| 2300-23FF | Miscellaneous Technical                | 75/256   |
+| 2300-23FF | Miscellaneous Technical                | 76/256   |
 | 2400-243F | Control Pictures                       | 26/39    |
 | 2400-245F | Optical Character Recognition          | (all)    |
 | 2500-257F | Box Drawing                            | 39/128   |
-| 25A0-25FF | Geometric Shapes                       | 22/96    |
-| 2600-26FF | Miscellaneous Symbols                  | 76/256   |
-| 2700-27BF | Dingbats                               | 34/192   |
+| 25A0-25FF | Geometric Shapes                       | 28/96    |
+| 2600-26FF | Miscellaneous Symbols                  | 77/256   |
+| 2700-27BF | Dingbats                               | 37/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A   | 6/48     |
-| 2900-297F | Supplemental Arrows-B                  | 8/128    |
-| 2980-29FF | Miscellaneous Mathematical Symbols-B   | 11/128   |
+| 2900-297F | Supplemental Arrows-B                  | 14/128   |
+| 2980-29FF | Miscellaneous Mathematical Symbols-B   | 42/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators    | 15/256   |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows       | 8/252    |
 | 2C60-2C6F | Latin Extended-C                       | (all)    |
 | 2E00-2E7F | Supplemental Punctuation               | (all)    |
 | 3000-3FFF | CJK Symbols and Punctuation            | 27/64    |
-| 3040-309F | Hiragana                               | 92/93    |
+| 3040-309F | Hiragana                               | (all)    |
 | 30A0-30FF | Katakana                               | (all)    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                | (all)    |
 | 4E00-9FEF | CJK Unified Ideographs                 | 11/20976 |
@@ -61,7 +61,7 @@ The current release includes support for the characters listed below.
 | A720-A7FF | Latin Extended-D                       | (all)    |
 | A830-A83F | Common Indic Number Forms              | (all)    |
 | AB30-AB6F | Latin Extended-E                       | (all)    |
-| FB00-FB4F | Alphabetic Presentation Forms          | 12/58    |
+| FB00-FB4F | Alphabetic Presentation Forms          | (all)    |
 | FE20-FE2F | Combining Half Marks                   | 2/16     |
 | FF00-FFEF | Halfwidth and Fullwidth Forms          | 111/225  |
 | FFF0-FFFF | Specials                               | 1/5      |
@@ -71,7 +71,6 @@ The current release includes the PUA characters listed below. The allocation of 
 * E004-E7FD – Latin letters (TITUS)
 * E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gāndhārī Unicode
 * EA00-EB94 – Greek letters (TITUS)
-* EAA0-EAB6 – Glyphs for SIL Encore font engine
 * EE01-EEAD – Cyrillic letters (TITUS)
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, these letters are only available in lowercase
