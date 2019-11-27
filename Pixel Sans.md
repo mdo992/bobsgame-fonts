@@ -47,7 +47,7 @@ The current release includes support for the characters listed below.
 | 2500-257F | Box Drawing                             | (all)    |
 | 2589-259F | Block Elements                          | (all)    |
 | 25A0-25FF | Geometric Shapes                        | (all)    |
-| 2600-26FF | Miscellaneous Symbols                   | 247/256  |
+| 2600-26FF | Miscellaneous Symbols                   | 250/256  |
 | 2700-27BF | Dingbats                                | (all)    |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | (all)    |
 | 27F0-27FF | Supplemental Arrows-A                   | (all)    |
