@@ -18,8 +18,8 @@ The current release includes support for the characters listed below.
 | 0370-03FF | Greek and Coptic                        | (all)    |
 | 0400-04FF | Cyrillic                                | (all)    |
 | 0500-052F | Cyrillic Supplement                     | (all)    |
-| 0530-058F | Armenian                                | (all)    |
-| 0590-05FF | Hebrew                                  | (all)    |
+| 0530-058F | Armenian                                | 87/91    |
+| 0590-05FF | Hebrew                                  | 87/88    |
 | 0E00-0E7F | Thai                                    | 1/87     |
 | 10A0-10FF | Georgian                                | (all)    |
 | 16A0-16FF | Runic                                   | 2/89     |
