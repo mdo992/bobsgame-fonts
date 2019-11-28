@@ -50,7 +50,7 @@ The current release includes support for the characters listed below.
 | 2B00-2BFF | Miscellaneous Symbols and Arrows       | 8/252    |
 | 2C60-2C6F | Latin Extended-C                       | (all)    |
 | 2E00-2E7F | Supplemental Punctuation               | (all)    |
-| 3000-3FFF | CJK Symbols and Punctuation            | 27/64    |
+| 3000-303F | CJK Symbols and Punctuation            | 27/64    |
 | 3040-309F | Hiragana                               | (all)    |
 | 30A0-30FF | Katakana                               | (all)    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                | (all)    |

@@ -18,7 +18,7 @@ The current release includes support for the characters listed below.
 | 0370-03FF | Greek and Coptic                        | (all)    |
 | 0400-04FF | Cyrillic                                | (all)    |
 | 0500-052F | Cyrillic Supplement                     | (all)    |
-| 0530-058F | Armenian                                | 87/91    |
+| 0530-058F | Armenian                                | (all)    |
 | 0590-05FF | Hebrew                                  | 87/88    |
 | 0E00-0E7F | Thai                                    | 1/87     |
 | 10A0-10FF | Georgian                                | (all)    |
@@ -43,18 +43,18 @@ The current release includes support for the characters listed below.
 | 2500-257F | Box Drawing                             | (all)    |
 | 2589-259F | Block Elements                          | 20/32    |
 | 25A0-25FF | Geometric Shapes                        | 71/96    |
-| 2600-26FF | Miscellaneous Symbols                   | 118/256  |
+| 2600-26FF | Miscellaneous Symbols                   | 119/256  |
 | 2700-27BF | Dingbats                                | 35/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | 20/48    |
 | 27F0-27FF | Supplemental Arrows-A                   | 10/16    |
 | 2900-297F | Supplemental Arrows-B                   | 63/128   |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B    | 60/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators     | 119/256  |
-| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 41/252   |
+| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 47/252   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
 | 2E00-2E7F | Supplemental Punctuation                | (all)    |
-| 3000-3FFF | CJK Symbols and Punctuation             | 8/64     |
+| 3000-303F | CJK Symbols and Punctuation             | 8/64     |
 | A4D0-A4FF | Lisu                                    | (all)    |
 | A640-A69F | Cyrillic Extended-B                     | 81/96    |
 | A700-A71F | Modifier Tone Letters                   | (all)    |
