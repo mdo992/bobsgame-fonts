@@ -23,16 +23,16 @@ The current release includes support for the characters listed below.
 | 10A0-10FF | Georgian                               | 1/88     |
 | 16A0-16FF | Runic                                  | 2/89     |
 | 1AB0-1AFF | Combining Diacritical Marks Extended   | (all)    |
-| 1C80-1C8F | Cyrililc Extended-C                    | (all)    |
+| 1C80-1C8F | Cyrillic Extended-C                    | (all)    |
 | 1D00-1D7F | Phonetic Extensions                    | (all)    |
 | 1D80-1DBF | Phonetic Extensions Supplement         | (all)    |
 | 1DC0-1DFF | Combining Diacritical Marks Supplement | (all)    |
 | 1E00-1EFF | Latin Extended Additional              | (all)    |
 | 1F00-1FFF | Greek Extended                         | (all)    |
-| 2000-206F | General Punctuation                    | 94/111   |
+| 2000-206F | General Punctuation                    | 95/111   |
 | 2070-209F | Superscripts and Subscripts            | (all)    |
 | 20A0-20CF | Currency Symbols                       | (all)    |
-| 2100-214F | Letterlike Symbols                     | 62/80    |
+| 2100-214F | Letterlike Symbols                     | 63/80    |
 | 2150-218F | Number Forms                           | (all)    |
 | 2190-21FF | Arrows                                 | 39/112   |
 | 2200-22FF | Mathematical Operators                 | 158/256  |
@@ -41,12 +41,12 @@ The current release includes support for the characters listed below.
 | 2400-245F | Optical Character Recognition          | (all)    |
 | 2500-257F | Box Drawing                            | 39/128   |
 | 25A0-25FF | Geometric Shapes                       | 28/96    |
-| 2600-26FF | Miscellaneous Symbols                  | 77/256   |
+| 2600-26FF | Miscellaneous Symbols                  | 83/256   |
 | 2700-27BF | Dingbats                               | 37/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A   | 6/48     |
-| 2900-297F | Supplemental Arrows-B                  | 14/128   |
-| 2980-29FF | Miscellaneous Mathematical Symbols-B   | 42/128   |
-| 2A00-2AFF | Supplemental Mathematical Operators    | 15/256   |
+| 2900-297F | Supplemental Arrows-B                  | 30/128   |
+| 2980-29FF | Miscellaneous Mathematical Symbols-B   | 46/128   |
+| 2A00-2AFF | Supplemental Mathematical Operators    | 18/256   |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows       | 8/252    |
 | 2C60-2C6F | Latin Extended-C                       | (all)    |
 | 2E00-2E7F | Supplemental Punctuation               | (all)    |
@@ -54,7 +54,7 @@ The current release includes support for the characters listed below.
 | 3040-309F | Hiragana                               | (all)    |
 | 30A0-30FF | Katakana                               | (all)    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                | (all)    |
-| 4E00-9FEF | CJK Unified Ideographs                 | 11/20976 |
+| 4E00-9FEF | CJK Unified Ideographs                 | 21/20976 |
 | A4D0-A4FF | Lisu                                   | (all)    |
 | A640-A69F | Cyrillic Extended-B                    | (all)    |
 | A700-A71F | Modifier Tone Letters                  | (all)    |
@@ -63,7 +63,7 @@ The current release includes support for the characters listed below.
 | AB30-AB6F | Latin Extended-E                       | (all)    |
 | FB00-FB4F | Alphabetic Presentation Forms          | (all)    |
 | FE20-FE2F | Combining Half Marks                   | 2/16     |
-| FF00-FFEF | Halfwidth and Fullwidth Forms          | 111/225  |
+| FF00-FFEF | Halfwidth and Fullwidth Forms          | 114/225  |
 | FFF0-FFFF | Specials                               | 1/5      |
 
 ### PUA Characters
@@ -73,7 +73,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * EA00-EB94 – Greek letters (TITUS)
 * EE01-EEAD – Cyrillic letters (TITUS)
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
-* F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, these letters are only available in lowercase
+* F500-F519 – Fullwidth extensions which include accents for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani
 * F664-F669 – Symbols from Zone of the Enders: The Fist of Mars
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F8FF – Apple logo
