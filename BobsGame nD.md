@@ -32,16 +32,16 @@ The current release includes support for the characters listed below.
 | 2000-206F | General Punctuation                    | 95/111   |
 | 2070-209F | Superscripts and Subscripts            | (all)    |
 | 20A0-20CF | Currency Symbols                       | (all)    |
-| 2100-214F | Letterlike Symbols                     | 63/80    |
+| 2100-214F | Letterlike Symbols                     | 65/80    |
 | 2150-218F | Number Forms                           | (all)    |
 | 2190-21FF | Arrows                                 | 39/112   |
-| 2200-22FF | Mathematical Operators                 | 158/256  |
+| 2200-22FF | Mathematical Operators                 | 161/256  |
 | 2300-23FF | Miscellaneous Technical                | 76/256   |
 | 2400-243F | Control Pictures                       | 26/39    |
 | 2400-245F | Optical Character Recognition          | (all)    |
 | 2500-257F | Box Drawing                            | 39/128   |
-| 25A0-25FF | Geometric Shapes                       | 28/96    |
-| 2600-26FF | Miscellaneous Symbols                  | 83/256   |
+| 25A0-25FF | Geometric Shapes                       | 53/96    |
+| 2600-26FF | Miscellaneous Symbols                  | 89/256   |
 | 2700-27BF | Dingbats                               | 37/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A   | 6/48     |
 | 2900-297F | Supplemental Arrows-B                  | 30/128   |
