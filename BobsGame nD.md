@@ -29,19 +29,19 @@ The current release includes support for the characters listed below.
 | 1DC0-1DFF | Combining Diacritical Marks Supplement  | (all)    |
 | 1E00-1EFF | Latin Extended Additional               | (all)    |
 | 1F00-1FFF | Greek Extended                          | (all)    |
-| 2000-206F | General Punctuation                     | 97/111   |
+| 2000-206F | General Punctuation                     | 98/111   |
 | 2070-209F | Superscripts and Subscripts             | (all)    |
 | 20A0-20CF | Currency Symbols                        | (all)    |
 | 20D0-20EF | Combining Diacritical Marks for Symbols | 9/33     |
 | 2100-214F | Letterlike Symbols                      | 65/80    |
 | 2150-218F | Number Forms                            | (all)    |
-| 2190-21FF | Arrows                                  | 40/112   |
-| 2200-22FF | Mathematical Operators                  | 163/256  |
-| 2300-23FF | Miscellaneous Technical                 | 78/256   |
+| 2190-21FF | Arrows                                  | 42/112   |
+| 2200-22FF | Mathematical Operators                  | 170/256  |
+| 2300-23FF | Miscellaneous Technical                 | 79/256   |
 | 2400-243F | Control Pictures                        | 26/39    |
 | 2400-245F | Optical Character Recognition           | (all)    |
 | 2500-257F | Box Drawing                             | 39/128   |
-| 25A0-25FF | Geometric Shapes                        | 53/96    |
+| 25A0-25FF | Geometric Shapes                        | 58/96    |
 | 2600-26FF | Miscellaneous Symbols                   | 90/256   |
 | 2700-27BF | Dingbats                                | 39/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | 10/48    |
@@ -49,10 +49,10 @@ The current release includes support for the characters listed below.
 | 2900-297F | Supplemental Arrows-B                   | 30/128   |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B    | 46/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators     | 18/256   |
-| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 8/252    |
+| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 32/252   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2E00-2E7F | Supplemental Punctuation                | (all)    |
-| 3000-303F | CJK Symbols and Punctuation             | 29/64    |
+| 3000-303F | CJK Symbols and Punctuation             | 37/64    |
 | 3040-309F | Hiragana                                | (all)    |
 | 30A0-30FF | Katakana                                | (all)    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                 | (all)    |
@@ -75,7 +75,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * EA00-EB94 – Greek letters (TITUS)
 * EE01-EEAD – Cyrillic letters (TITUS)
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
-* F500-F519 – Fullwidth extensions which include accents for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani
-* F664-F669 – Symbols from Zone of the Enders: The Fist of Mars
+* F500-F519 – Fullwidth extensions for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani
+* F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F8FF – Apple logo
