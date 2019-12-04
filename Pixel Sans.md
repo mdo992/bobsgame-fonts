@@ -95,11 +95,11 @@ The current release includes the PUA characters listed below. The allocation of 
 * F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F700, F70F – Thai Microsoft PUA
-* F7E4 – Alternative Cyrillic “be”, used in Serbian and Macedonian languages
+* F7E4 – Alternative Cyrillic “be”, used in Serbian and Macedonian
 * F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages
 * F830-F835 – Latin letters (Quivira)
-* F870-F888 – Symbols in *Pokémon Black & White* (Textbook only). The font in the game used the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols.
+* F870-F888 – Symbols in *Pokémon Black & White* (Textbook only). The font in the game uses the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols.
 * F8FF – Apple logo
 
 ### Supported Characters - Fallback Version 5.0
@@ -156,14 +156,14 @@ The current release includes support for the characters listed below.
 | FFF0-FFFF | Specials                           | 1/5        |
 
 ### PUA Characters
-* E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Symbols used in Nintendo DS and Wii
+* E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Symbols for *Nintendo DS* and *Nintendo Wii*
 * E06C – *MySims* currency symbol
-* E2D1-E30C, E320-E337 – Additional Japanese glyphs
+* E2D1-E30C, E320-E337 – Halfwidth Extensions for Japanese
 * E34C-E34E, EC7B-EC7E – Nut Fractions
+* F520-F5B5 – Fullwidth Letters with Diacritics
 * F638, F6DC – Adobe PUA
-* F78D, F7AD, F7B0-F7BF – Fullwidth Letters with Diacritics
 * F82E – *Tri Force* sign
-* F82F – ? block, used by the Mario franchise
+* F82F – ? block for use with the Mario franchise
 * F884 – Pokémon currency, usually mapped to the dollar sign ($) in Pokémon games
 * F8FF – Apple logo
 
