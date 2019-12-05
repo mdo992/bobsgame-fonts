@@ -138,10 +138,10 @@ The current release includes support for the characters listed below.
 | 3000-3FFF | CJK Symbols and Punctuation        | (all)      |
 | 3040-309F | Hiragana                           | (all)      |
 | 30A0-30FF | Katakana                           | (all)      |
-| 3100-312F | Bopomofo                           | 40/43      |
+| 3100-312F | Bopomofo                           | (all)      |
 | 3130-318F | Hangul Compatibility Jamo          | (all)      |
 | 3190-319F | Kanbun                             | (all)      |
-| 31A0-31BF | Bopomofo Extended                  | 24/27      |
+| 31A0-31BF | Bopomofo Extended                  | (all)      |
 | 31F0-31FF | Katakana Phonetic Extensions       | (all)      |
 | 3200-32FF | Enclosed CJK Letters and Months    | 251/255    |
 | 3300-33FF | CJK Compatibility                  | (all)      |
@@ -160,10 +160,8 @@ The current release includes support for the characters listed below.
 * E06C – *MySims* currency symbol
 * E2D1-E30C, E320-E337 – Halfwidth Extensions for Japanese
 * E34C-E34E, EC7B-EC7E – Nut Fractions
-* F520-F5B5 – Fullwidth Letters with Diacritics
 * F638, F6DC – Adobe PUA
 * F82E – *Tri Force* sign
-* F82F – ? block for use with the Mario franchise
 * F884 – Pokémon currency, usually mapped to the dollar sign ($) in Pokémon games
 * F8FF – Apple logo
 
