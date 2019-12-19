@@ -39,7 +39,7 @@ The current release includes support for the characters listed below.
 | 2200-22FF | Mathematical Operators                  | 170/256  |
 | 2300-23FF | Miscellaneous Technical                 | 79/256   |
 | 2400-243F | Control Pictures                        | 26/39    |
-| 2400-245F | Optical Character Recognition           | (all)    |
+| 2440-245F | Optical Character Recognition           | (all)    |
 | 2500-257F | Box Drawing                             | 39/128   |
 | 25A0-25FF | Geometric Shapes                        | 58/96    |
 | 2600-26FF | Miscellaneous Symbols                   | 90/256   |
