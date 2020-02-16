@@ -32,22 +32,22 @@ The current release includes support for the characters listed below.
 | 2000-206F | General Punctuation                     | 98/111   |
 | 2070-209F | Superscripts and Subscripts             | (all)    |
 | 20A0-20CF | Currency Symbols                        | (all)    |
-| 20D0-20EF | Combining Diacritical Marks for Symbols | 9/33     |
+| 20D0-20EF | Combining Diacritical Marks for Symbols | (all)    |
 | 2100-214F | Letterlike Symbols                      | 65/80    |
 | 2150-218F | Number Forms                            | (all)    |
 | 2190-21FF | Arrows                                  | 42/112   |
-| 2200-22FF | Mathematical Operators                  | 170/256  |
-| 2300-23FF | Miscellaneous Technical                 | 79/256   |
+| 2200-22FF | Mathematical Operators                  | 172/256  |
+| 2300-23FF | Miscellaneous Technical                 | 82/256   |
 | 2400-243F | Control Pictures                        | 26/39    |
 | 2440-245F | Optical Character Recognition           | (all)    |
 | 2500-257F | Box Drawing                             | 39/128   |
-| 25A0-25FF | Geometric Shapes                        | 58/96    |
+| 25A0-25FF | Geometric Shapes                        | 66/96    |
 | 2600-26FF | Miscellaneous Symbols                   | 90/256   |
-| 2700-27BF | Dingbats                                | 39/192   |
+| 2700-27BF | Dingbats                                | 40/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | 10/48    |
 | 27F0-27FF | Supplemental Arrows-A                   | 3/16     |
 | 2900-297F | Supplemental Arrows-B                   | 30/128   |
-| 2980-29FF | Miscellaneous Mathematical Symbols-B    | 46/128   |
+| 2980-29FF | Miscellaneous Mathematical Symbols-B    | 47/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators     | 18/256   |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows        | 32/252   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
@@ -61,10 +61,10 @@ The current release includes support for the characters listed below.
 | A640-A69F | Cyrillic Extended-B                     | (all)    |
 | A700-A71F | Modifier Tone Letters                   | (all)    |
 | A720-A7FF | Latin Extended-D                        | (all)    |
-| A830-A83F | Common Indic Number Forms               | (all)    |
 | AB30-AB6F | Latin Extended-E                        | (all)    |
 | FB00-FB4F | Alphabetic Presentation Forms           | (all)    |
 | FE20-FE2F | Combining Half Marks                    | 2/16     |
+| FE70-FEFF | Arabic Presentation Forms-B             | 1/141    |
 | FF00-FFEF | Halfwidth and Fullwidth Forms           | 116/225  |
 | FFF0-FFFF | Specials                                | 1/5      |
 
@@ -78,4 +78,5 @@ The current release includes the PUA characters listed below. The allocation of 
 * F500-F519 – Fullwidth extensions for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani
 * F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
+* F704-F709, F70B, F70C, F715-F71C – Metrics symbols from URW Palladio HOT
 * F8FF – Apple logo

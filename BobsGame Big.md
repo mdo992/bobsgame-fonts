@@ -21,36 +21,35 @@ The current release includes support for the characters listed below.
 | 0530-058F | Armenian                               | 8/91     |
 | 0590-05FF | Hebrew                                 | 44/88    |
 | 0E00-0E7F | Thai                                   | 2/87     |
-| 1D00-1D7F | Phonetic Extensions                    | 100/128  |
+| 1D00-1D7F | Phonetic Extensions                    | 103/128  |
 | 1D80-1DBF | Phonetic Extensions Supplement         | 30/64    |
-| 1DC0-1DFF | Combining Diacritical Marks Supplement | 15/63    |
+| 1DC0-1DFF | Combining Diacritical Marks Supplement | 16/63    |
 | 1E00-1EFF | Latin Extended Additional              | (all)    |
 | 1F00-1FFF | Greek Extended                         | (all)    |
-| 2000-206F | General Punctuation                    | 78/111   |
-| 2070-209F | Superscripts and Subscripts            | 38/42    |
+| 2000-206F | General Punctuation                    | 81/111   |
+| 2070-209F | Superscripts and Subscripts            | (all)    |
 | 20A0-20CF | Currency Symbols                       | (all)    |
-| 2100-214F | Letterlike Symbols                     | 40/80    |
-| 2150-218F | Number Forms                           | 18/60    |
+| 2100-214F | Letterlike Symbols                     | 47/80    |
+| 2150-218F | Number Forms                           | 20/60    |
 | 2190-21FF | Arrows                                 | 13/112   |
-| 2200-22FF | Mathematical Operators                 | 89/256   |
-| 2300-23FF | Miscellaneous Technical                | 42/256   |
+| 2200-22FF | Mathematical Operators                 | 108/256  |
+| 2300-23FF | Miscellaneous Technical                | 50/256   |
 | 2400-243F | Control Pictures                       | 20/39    |
 | 2500-257F | Box Drawing                            | 17/128   |
-| 25A0-25FF | Geometric Shapes                       | 20/96    |
-| 2600-26FF | Miscellaneous Symbols                  | 62/256   |
-| 2700-27BF | Dingbats                               | 25/192   |
-| 27C0-27EF | Miscellaneous Mathematical Symbols-A   | 12/48    |
-| 2980-29FF | Miscellaneous Mathematical Symbols-B   | 32/128   |
+| 25A0-25FF | Geometric Shapes                       | 51/96    |
+| 2600-26FF | Miscellaneous Symbols                  | 69/256   |
+| 2700-27BF | Dingbats                               | 29/192   |
+| 27C0-27EF | Miscellaneous Mathematical Symbols-A   | 14/48    |
+| 2980-29FF | Miscellaneous Mathematical Symbols-B   | 36/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators    | 38/256   |
-| 2B00-2BFF | Miscellaneous Symbols and Arrows       | 6/252    |
+| 2B00-2BFF | Miscellaneous Symbols and Arrows       | 10/252   |
 | 2C60-2C7F | Latin Extended-C                       | (all)    |
-| 2E00-2E5F | Supplemental Punctuation               | 42/80    |
+| 2E00-2E5F | Supplemental Punctuation               | 51/80    |
 | 3000-303F | CJK Symbols and Punctuation            | 3/64     |
 | A4D0-A4FF | Lisu                                   | (all)    |
 | A640-A69F | Cyrillic Extended-A                    | 30/96    |
 | A700-A71F | Modifier Tone Letters                  | (all)    |
 | A720-A7FF | Latin Extended-D                       | 133/174  |
-| A830-A83F | Common Indic Number Forms              | (all)    |
 | AB30-AB6F | Latin Extended-E                       | 34/56    |
 | FB00-FB4F | Alphabetic Presentation Forms          | 7/58     |
 | FE20-FE2F | Combining Half Marks                   | 2/16     |
@@ -67,4 +66,5 @@ The current release includes the PUA characters listed below. The allocation of 
 * F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. For lack of charset space, these letters are only available in lowercase
 * F638 – Slashed zero (Fixedsys Excelsior)
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
+* F704-F709, F70B, F70C, F715-F71C – Metrics symbols from URW Palladio HOT
 * F8FF – Apple logo
