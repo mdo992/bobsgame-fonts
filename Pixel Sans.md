@@ -70,7 +70,6 @@ The current release includes support for the characters listed below.
 | A640-A69F | Cyrillic Extended-B                     | (all)    |
 | A700-A71F | Modifier Tone Letters                   | (all)    |
 | A720-A7FF | Latin Extended-D                        | (all)    |
-| A830-A83F | Common Indic Number Forms               | (all)    |
 | AB30-AB6F | Latin Extended-E                        | (all)    |
 | AB70-ABBF | Cherokee Supplement                     | (all)    |
 | FB00-FB4F | Alphabetic Presentation Forms           | (all)    |
@@ -94,7 +93,8 @@ The current release includes the PUA characters listed below. The allocation of 
 * F638 – Slashed zero (Fixedsys Excelsior)
 * F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
-* F700, F70F – Thai Microsoft PUA
+* F700, F70F – Microsoft PUA (Thai)
+* F704-F709, F70B, F70C, F715-F71C – Metrics symbols from URW Palladio HOT
 * F7E4 – Alternative Cyrillic “be”, used in Serbian and Macedonian
 * F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages
