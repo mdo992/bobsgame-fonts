@@ -20,7 +20,7 @@ See [the fonts category on the Bob's Game FANDOM portal](https://bobsgame.fandom
 
 ## NFTR Installation Instructions
 The NFTR based on Pixel Sans Textbook includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
-1. Download the More English Training European ROM from ROM sites (e.g. ROM Hustler or Emuparadise) and open it.
+1. Download the More English Training European ROM from ROM sites (e.g. ROM Hustler or Emuparadise) and open it. **P.S.** ROM sites are blocked across GBAtemp according to the rules.
 2. You see a file called **European_LC12.NFTR** in `common/fonts/data`.
 3. Press **Change file** to replace the file.
 4. Press **Save ROM** to save the ROM in a new name.
