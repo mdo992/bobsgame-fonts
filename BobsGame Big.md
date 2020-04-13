@@ -49,8 +49,8 @@ The current release includes support for the characters listed below.
 | A4D0-A4FF | Lisu                                   | (all)    |
 | A640-A69F | Cyrillic Extended-A                    | 30/96    |
 | A700-A71F | Modifier Tone Letters                  | (all)    |
-| A720-A7FF | Latin Extended-D                       | 133/174  |
-| AB30-AB6F | Latin Extended-E                       | 34/56    |
+| A720-A7FF | Latin Extended-D                       | 133/180  |
+| AB30-AB6F | Latin Extended-E                       | 34/60    |
 | FB00-FB4F | Alphabetic Presentation Forms          | 7/58     |
 | FE20-FE2F | Combining Half Marks                   | 2/16     |
 | FFF0-FFFF | Specials                               | 1/5      |

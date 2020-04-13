@@ -22,7 +22,7 @@ The current release includes support for the characters listed below.
 | 0E00-0E7F | Thai                                    | 1/87     |
 | 10A0-10FF | Georgian                                | 1/88     |
 | 16A0-16FF | Runic                                   | 2/89     |
-| 1AB0-1AFF | Combining Diacritical Marks Extended    | (all)    |
+| 1AB0-1AFF | Combining Diacritical Marks Extended    | 15/17    |
 | 1C80-1C8F | Cyrillic Extended-C                     | (all)    |
 | 1D00-1D7F | Phonetic Extensions                     | (all)    |
 | 1D80-1DBF | Phonetic Extensions Supplement          | (all)    |
@@ -51,12 +51,12 @@ The current release includes support for the characters listed below.
 | 2A00-2AFF | Supplemental Mathematical Operators     | 18/256   |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows        | 32/252   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
-| 2E00-2E7F | Supplemental Punctuation                | (all)    |
+| 2E00-2E7F | Supplemental Punctuation                | 80/83    |
 | 3000-303F | CJK Symbols and Punctuation             | 37/64    |
 | 3040-309F | Hiragana                                | (all)    |
 | 30A0-30FF | Katakana                                | (all)    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                 | (all)    |
-| 4E00-9FEF | CJK Unified Ideographs                  | 21/20976 |
+| 4E00-9FEF | CJK Unified Ideographs                  | 21/20989 |
 | A4D0-A4FF | Lisu                                    | (all)    |
 | A640-A69F | Cyrillic Extended-B                     | (all)    |
 | A700-A71F | Modifier Tone Letters                   | (all)    |

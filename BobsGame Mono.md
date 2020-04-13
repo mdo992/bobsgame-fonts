@@ -50,7 +50,7 @@ The current release includes support for the characters listed below.
 | 2900-297F | Supplemental Arrows-B                   | 63/128   |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B    | 62/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators     | 119/256  |
-| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 55/252   |
+| 2B00-2BFF | Miscellaneous Symbols and Arrows        | 55/253   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
 | 2E00-2E7F | Supplemental Punctuation                | (all)    |
@@ -58,8 +58,8 @@ The current release includes support for the characters listed below.
 | A4D0-A4FF | Lisu                                    | (all)    |
 | A640-A69F | Cyrillic Extended-B                     | 81/96    |
 | A700-A71F | Modifier Tone Letters                   | (all)    |
-| A720-A7FF | Latin Extended-D                        | (all)    |
-| AB30-AB6F | Latin Extended-E                        | (all)    |
+| A720-A7FF | Latin Extended-D                        | 174/180  |
+| AB30-AB6F | Latin Extended-E                        | 56/60    |
 | FB00-FB4F | Alphabetic Presentation Forms           | (all)    |
 | FE20-FE2F | Combining Half Marks                    | (all)    |
 | FFF0-FFFF | Specials                                | 1/5      |

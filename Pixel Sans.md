@@ -24,7 +24,7 @@ The current release includes support for the characters listed below.
 | 10A0-10FF | Georgian                                | (all)    |
 | 13A0-13FF | Cherokee                                | (all)    |
 | 16A0-16FF | Runic                                   | (all)    |
-| 1AB0-1AFF | Combining Diacritical Marks Extended    | (all)    |
+| 1AB0-1AFF | Combining Diacritical Marks Extended    | 15/17    |
 | 1C80-1C8F | Cyrillic Extended-C                     | (all)    |
 | 1C90-1CBF | Georgian Extended                       | (all)    |
 | 1D00-1D7F | Phonetic Extensions                     | (all)    |
@@ -60,10 +60,10 @@ The current release includes support for the characters listed below.
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
 | 2D30-2D7F | Tifinagh                                | (all)    |
 | 2DE0-2DFF | Cyrillic Extended-A                     | (all)    |
-| 2E00-2E7F | Supplemental Punctuation                | (all)    |
+| 2E00-2E7F | Supplemental Punctuation                | 80/83    |
 | 2FF0-2FFF | Ideographic Description Characters      | (all)    |
 | 3000-303F | CJK Symbols and Punctuation             | 22/64    |
-| 3200-32FF | Enclosed CJK Letters and Months         | 39/253   |
+| 3200-32FF | Enclosed CJK Letters and Months         | 39/255   |
 | 3300-33FF | CJK Compatibility                       | 2/256    |
 | 4DC0-4DFF | Yijing Hexagram Symbols                 | (all)    |
 | A4D0-A4FF | Lisu                                    | (all)    |
@@ -74,7 +74,7 @@ The current release includes support for the characters listed below.
 | AB70-ABBF | Cherokee Supplement                     | (all)    |
 | FB00-FB4F | Alphabetic Presentation Forms           | (all)    |
 | FE20-FE2F | Combining Half Marks                    | (all)    |
-| FF00-FFEF | Halfwidth and Fullwidth Forms           | 2/222    |
+| FF00-FFEF | Halfwidth and Fullwidth Forms           | 2/225    |
 | FFF0-FFFF | Specials                                | 1/5      |
 
 ### PUA Characters - Version 8.0
@@ -88,7 +88,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F4D0-F4D9 – Lowercase descending numerals
 * F4E3 – Copyleft
-* F4E9 – Capital J without serif (Textbook only)
+* F4E9 – Capital J without serif (Textbook only), used in *Pokémon Black & White* and its direct sequel
 * F5CC – Oblique Hyphen
 * F638 – Slashed zero (Fixedsys Excelsior)
 * F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
@@ -99,7 +99,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages
 * F830-F835 – Latin letters (Quivira)
-* F870-F888 – Symbols in *Pokémon Black & White* (Textbook only). The font in the game uses the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols.
+* F870-F888 – Symbols in *Pokémon Black & White* and its direct sequel (Textbook only). The font in the games uses the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols.
 * F8FF – Apple logo
 
 ### Supported Characters - Fallback Version 5.0
@@ -145,7 +145,7 @@ The current release includes support for the characters listed below.
 | 31F0-31FF | Katakana Phonetic Extensions       | (all)      |
 | 3200-32FF | Enclosed CJK Letters and Months    | 251/255    |
 | 3300-33FF | CJK Compatibility                  | (all)      |
-| 4E00-9FEF | CJK Unified Ideographs             | 6371/20976 |
+| 4E00-9FEF | CJK Unified Ideographs             | 6371/20989 |
 | A960-A97F | Hangul Jamo Extended-A             | (all)      |
 | AC00-D7AF | Hangul Syllables                   | 2439/11172 |
 | D7B0-D7FF | Hangul Jamo Extended-B             | (all)      |
@@ -165,18 +165,25 @@ The current release includes support for the characters listed below.
 * F884 – Pokémon currency, usually mapped to the dollar sign ($) in Pokémon games
 * F8FF – Apple logo
 
+### Font Replacement (PS3)
+Use [Flash Font Replacer](http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html) or Rebug Toolbox with FileZilla to change the font.
+
+**Pixel Sans or Terminal or Textbook** is named `SCE-PS3-RD-R-LATIN2.TTF` and **Pixel Sans Fallback** is named `SCE-PS3-NR-R-JPN.TTF` (Japanese) or `SCE-PS3-YG-R-KOR.TTF` (Korean).
+
+**P.S.** The console stores its fonts in `dev_rebug/data/font` if Rebug Toolbox with FileZilla is used. The font can be changed in **Settings: Theme Settings: Font**. If the Flash Font Replacer detects that it is using a non-PS3 user agent, all options are disabled.
+
 ### Font Linking (Windows and Wine)
 Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink` with the value `Pixel Sans Fallback.ttf,Pixel Sans Fallback` and restart the computer.
 
 ### Font Linking (OS/2)
 1. Use any OS/2 INI editor, e.g. INITOR or the registry editor from OS/2 WARP 4.52 Server for e-Business and above to edit the system profile (`os2.ini`).
 2. Go to `PM_SystemFonts`.
-3. Add the `PM_AssociateFont` key and enter `Pixel Sans Fallback,12` as the data.
+3. Add `PM_AssociateFont` key and enter `Pixel Sans Fallback,12` as the data.
 4. Restart the computer for the changes to take effect.
 
-### Setting Pixel Sans Fallback as default for Japanese and Korean in internet browsers
+### Setting Pixel Sans Fallback as default for Japanese and Korean in web browsers
 1. Clone the repository, download the zipped archive or the font separately.
-2. Go to any website in Japanese or Korean. Example: [Seesaa Wiki animation staff database page list](https://seesaawiki.jp/w/radioi_34/l/), in Japanese only / 日本語のみ.
+2. Enter text in Japanese or Korean or go to any website in these languages. Example: [Seesaa Wiki animation staff database page list](https://seesaawiki.jp/w/radioi_34/l/), in Japanese only / 日本語のみ.
 3. Open up the font settings in your browser.
 4. Select Pixel Sans Fallback as the default sans-serif font for Japanese and Korean.
 5. Use 8 points as the font size in Netscape or Mozilla. Other operating systems: use 10 points for Haiku and 12 points for OS/2.
