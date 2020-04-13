@@ -47,7 +47,7 @@ The current release includes support for the characters listed below.
 | 2500-257F | Box Drawing                             | (all)    |
 | 2589-259F | Block Elements                          | (all)    |
 | 25A0-25FF | Geometric Shapes                        | (all)    |
-| 2600-26FF | Miscellaneous Symbols                   | (all)    |
+| 2600-26FF | Miscellaneous Symbols                   | 255/256  |
 | 2700-27BF | Dingbats                                | (all)    |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | (all)    |
 | 27F0-27FF | Supplemental Arrows-A                   | (all)    |
@@ -76,6 +76,9 @@ The current release includes support for the characters listed below.
 | FE20-FE2F | Combining Half Marks                    | (all)    |
 | FF00-FFEF | Halfwidth and Fullwidth Forms           | 2/225    |
 | FFF0-FFFF | Specials                                | 1/5      |
+
+### Pixel Sans Textbook
+The textbook font uses the same ranges but Hiragana is extended to 81 characters, Katakana is extended to 82 characters and Halfwidth and Fullwidth Forms is extended to 110 characters.
 
 ### PUA Characters - Version 8.0
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
@@ -176,7 +179,7 @@ Use [Flash Font Replacer](http://ps3xploit.com/hfw/flash_font_replacer/flash_fon
 Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink` with the value `Pixel Sans Fallback.ttf,Pixel Sans Fallback` and restart the computer.
 
 ### Font Linking (OS/2)
-1. Use any OS/2 INI editor, e.g. INITOR or the registry editor from OS/2 WARP 4.52 Server for e-Business and above to edit the system profile (`os2.ini`).
+1. Use INI editors (e.g. INITOR or the registry editor from OS/2 WARP 4.52 Server for e-Business & above) to edit the system profile (`os2.ini`).
 2. Go to `PM_SystemFonts`.
 3. Add `PM_AssociateFont` key and enter `Pixel Sans Fallback,12` as the data.
 4. Restart the computer for the changes to take effect.
