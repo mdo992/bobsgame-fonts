@@ -1,4 +1,4 @@
-﻿## BobsGame Big Font - Version 6.0
+﻿## BobsGame Big Font - Version 8.0
 
 ### Installation Instructions
 https://bobsgame.fandom.com/wiki/Category:Fonts
@@ -21,8 +21,8 @@ The current release includes support for the characters listed below.
 | 0530-058F | Armenian                               | 8/91     |
 | 0590-05FF | Hebrew                                 | 44/88    |
 | 0E00-0E7F | Thai                                   | 2/87     |
-| 1D00-1D7F | Phonetic Extensions                    | 103/128  |
-| 1D80-1DBF | Phonetic Extensions Supplement         | 30/64    |
+| 1D00-1D7F | Phonetic Extensions                    | 105/128  |
+| 1D80-1DBF | Phonetic Extensions Supplement         | 31/64    |
 | 1DC0-1DFF | Combining Diacritical Marks Supplement | 16/63    |
 | 1E00-1EFF | Latin Extended Additional              | (all)    |
 | 1F00-1FFF | Greek Extended                         | (all)    |
@@ -38,19 +38,19 @@ The current release includes support for the characters listed below.
 | 2500-257F | Box Drawing                            | 17/128   |
 | 25A0-25FF | Geometric Shapes                       | 51/96    |
 | 2600-26FF | Miscellaneous Symbols                  | 69/256   |
-| 2700-27BF | Dingbats                               | 29/192   |
+| 2700-27BF | Dingbats                               | 30/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A   | 14/48    |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B   | 36/128   |
 | 2A00-2AFF | Supplemental Mathematical Operators    | 38/256   |
-| 2B00-2BFF | Miscellaneous Symbols and Arrows       | 10/252   |
+| 2B00-2BFF | Miscellaneous Symbols and Arrows       | 10/253   |
 | 2C60-2C7F | Latin Extended-C                       | (all)    |
-| 2E00-2E5F | Supplemental Punctuation               | 51/80    |
-| 3000-303F | CJK Symbols and Punctuation            | 3/64     |
+| 2E00-2E5F | Supplemental Punctuation               | 52/83    |
+| 3000-303F | CJK Symbols and Punctuation            | 4/64     |
 | A4D0-A4FF | Lisu                                   | (all)    |
 | A640-A69F | Cyrillic Extended-A                    | 30/96    |
 | A700-A71F | Modifier Tone Letters                  | (all)    |
-| A720-A7FF | Latin Extended-D                       | 133/180  |
-| AB30-AB6F | Latin Extended-E                       | 34/60    |
+| A720-A7FF | Latin Extended-D                       | 135/180  |
+| AB30-AB6F | Latin Extended-E                       | 41/60    |
 | FB00-FB4F | Alphabetic Presentation Forms          | 7/58     |
 | FE20-FE2F | Combining Half Marks                   | 2/16     |
 | FFF0-FFFF | Specials                               | 1/5      |

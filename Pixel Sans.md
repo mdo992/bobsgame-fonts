@@ -1,4 +1,4 @@
-﻿## Pixel Sans Font - Version 8.0
+﻿## Pixel Sans Font - Version 9.0
 
 ### Installation
 https://bobsgame.fandom.com/wiki/Category:Fonts
@@ -60,7 +60,7 @@ The current release includes support for the characters listed below.
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
 | 2D30-2D7F | Tifinagh                                | (all)    |
 | 2DE0-2DFF | Cyrillic Extended-A                     | (all)    |
-| 2E00-2E7F | Supplemental Punctuation                | 80/83    |
+| 2E00-2E7F | Supplemental Punctuation                | (all)    |
 | 2FF0-2FFF | Ideographic Description Characters      | (all)    |
 | 3000-303F | CJK Symbols and Punctuation             | 22/64    |
 | 3200-32FF | Enclosed CJK Letters and Months         | 39/255   |
@@ -80,7 +80,7 @@ The current release includes support for the characters listed below.
 ### Pixel Sans Textbook
 The textbook font uses the same ranges but Hiragana is extended to 81 characters, Katakana is extended to 82 characters and Halfwidth and Fullwidth Forms is extended to 110 characters.
 
-### PUA Characters - Version 8.0
+### PUA Characters - Version 9.0
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](http://junicode.sourceforge.net/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
 * E004-E7FD – Latin letters (TITUS)
 * E801-E804 – Hebrew Microsoft PUA

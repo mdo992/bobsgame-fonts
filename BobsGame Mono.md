@@ -1,4 +1,4 @@
-﻿## BobsGame Mono Font - Version 6.0
+﻿## BobsGame Mono Font - Version 8.0
 
 ### Installation
 https://bobsgame.fandom.com/wiki/Category:Fonts
@@ -23,8 +23,9 @@ The current release includes support for the characters listed below.
 | 0E00-0E7F | Thai                                    | (all)    |
 | 10A0-10FF | Georgian                                | (all)    |
 | 16A0-16FF | Runic                                   | 2/89     |
+| 1AB0-1AFF | Combining Diacritical Marks Extended    | 2/17     |
 | 1C80-1CFF | Cyrillic Extended-C                     | (all)    |
-| 1D00-1D7F | Phonetic Extensions                     | 121/128  |
+| 1D00-1D7F | Phonetic Extensions                     | 122/128  |
 | 1D80-1DBF | Phonetic Extensions Supplement          | (all)    |
 | 1DC0-1DFF | Combining Diacritical Marks Supplement  | (all)    |
 | 1E00-1EFF | Latin Extended Additional               | (all)    |
@@ -35,8 +36,8 @@ The current release includes support for the characters listed below.
 | 20D0-20FF | Combining Diacritical Marks for Symbols | (all)    |
 | 2100-214F | Letterlike Symbols                      | 71/80    |
 | 2150-218F | Number Forms                            | 29/60    |
-| 2190-21FF | Arrows                                  | 85/112   |
-| 2200-22FF | Mathematical Operators                  | 208/256  |
+| 2190-21FF | Arrows                                  | 87/112   |
+| 2200-22FF | Mathematical Operators                  | 209/256  |
 | 2300-23FF | Miscellaneous Technical                 | 185/256  |
 | 2400-243F | Control Pictures                        | (all)    |
 | 2440-245F | Optical Character Recognition           | (all)    |
@@ -44,7 +45,7 @@ The current release includes support for the characters listed below.
 | 2589-259F | Block Elements                          | 20/32    |
 | 25A0-25FF | Geometric Shapes                        | 73/96    |
 | 2600-26FF | Miscellaneous Symbols                   | 119/256  |
-| 2700-27BF | Dingbats                                | 42/192   |
+| 2700-27BF | Dingbats                                | 43/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | 20/48    |
 | 27F0-27FF | Supplemental Arrows-A                   | 10/16    |
 | 2900-297F | Supplemental Arrows-B                   | 63/128   |
@@ -58,8 +59,8 @@ The current release includes support for the characters listed below.
 | A4D0-A4FF | Lisu                                    | (all)    |
 | A640-A69F | Cyrillic Extended-B                     | 81/96    |
 | A700-A71F | Modifier Tone Letters                   | (all)    |
-| A720-A7FF | Latin Extended-D                        | 174/180  |
-| AB30-AB6F | Latin Extended-E                        | 56/60    |
+| A720-A7FF | Latin Extended-D                        | (all)    |
+| AB30-AB6F | Latin Extended-E                        | (all)    |
 | FB00-FB4F | Alphabetic Presentation Forms           | (all)    |
 | FE20-FE2F | Combining Half Marks                    | (all)    |
 | FFF0-FFFF | Specials                                | 1/5      |
