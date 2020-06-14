@@ -78,7 +78,14 @@ The current release includes support for the characters listed below.
 | FFF0-FFFF | Specials                                | 1/5      |
 
 ### Pixel Sans Textbook
-The textbook font uses the same ranges but Hiragana is extended to 81 characters, Katakana is extended to 82 characters and Halfwidth and Fullwidth Forms is extended to 110 characters.
+The textbook font has the same ranges with the following ranges:
+
+| Range     | Description                   | Coverage |
+|-----------|-------------------------------|----------|
+| 3000-3FFF | CJK Symbols and Punctuation   | 22/64    |
+| 3040-309F | Hiragana                      | 81/93    |
+| 30A0-30FF | Katakana                      | 82/96    |
+| FF00-FFEF | Halfwidth and Fullwidth Forms | 110/225  |
 
 ### PUA Characters - Version 9.0
 The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](https://junicode.sourceforge.io/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
@@ -160,7 +167,7 @@ The current release includes support for the characters listed below.
 
 ### PUA Characters
 * E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Symbols for *Nintendo DS* and *Nintendo Wii*
-* E06C – *MySims* currency symbol
+* E06C – Sims currency symbol
 * E2D1-E30C, E320-E337 – Halfwidth Extensions for Japanese
 * E34C-E34E, EC7B-EC7E – Nut Fractions
 * F638, F6DC – Adobe PUA
@@ -169,11 +176,9 @@ The current release includes support for the characters listed below.
 * F8FF – Apple logo
 
 ### Font Replacement (PS3)
-Use [Flash Font Replacer](http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html) or Rebug Toolbox with FileZilla to change the font.
+Use [Flash Font Replacer](http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html) or Rebug Toolbox with FileZilla to change the font. **Pixel Sans or Terminal or Textbook** is named `SCE-PS3-RD-R-LATIN.TTF` and `SCE-PS3-RD-R-LATIN2.TTF` and **Pixel Sans Fallback** is named `SCE-PS3-NR-R-JPN.TTF` (Japanese) or `SCE-PS3-YG-R-KOR.TTF` (Korean).
 
-**Pixel Sans or Terminal or Textbook** is named `SCE-PS3-RD-R-LATIN2.TTF` and **Pixel Sans Fallback** is named `SCE-PS3-NR-R-JPN.TTF` (Japanese) or `SCE-PS3-YG-R-KOR.TTF` (Korean).
-
-**P.S.** The console stores its fonts in `data/font` or `dev_rebug/data/font` (Rebug Toolbox with FileZilla). The font can be changed in **Settings: Theme Settings: Font**. If the tool detects that the firmware version is older than 4.81 is using a non-PS3 user agent (e.g. Microsoft Xbox or Netscape Win16), all options are disabled. If the tool detects that no hybrid firmware is detected, it will work properly.
+**P.S.** The console stores its fonts in `data/font` or `dev_rebug/data/font` (Rebug Toolbox with FileZilla). The font can be changed in **Settings: Theme Settings: Font**. Using a firmware version older than 4.81 or a non-PlayStation 3 user agent (e.g. Xbox 360) will disable all features. Using the tool without a hybrid firmware will show a message on loading.
 
 ### Font Linking (Windows and Wine)
 Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink` with the value `Pixel Sans Fallback.ttf,Pixel Sans Fallback` and restart the computer.
@@ -181,7 +186,7 @@ Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pix
 ### Font Linking (OS/2)
 1. Use INI editors (e.g. INITOR or the registry editor from OS/2 WARP 4.52 Server for e-Business & above) to edit the system profile (`os2.ini`).
 2. Go to `PM_SystemFonts`.
-3. Add `PM_AssociateFont` key and enter `Pixel Sans Fallback,12` as the data.
+3. Add a key named `PM_AssociateFont` and enter `Pixel Sans Fallback,12` as the data.
 4. Restart the computer for the changes to take effect.
 
 ### Setting Pixel Sans Fallback as default for Japanese and Korean in web browsers
