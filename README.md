@@ -15,8 +15,8 @@ Ordinary Unicode fonts for use with [bob's game](https://github.com/bobsgame/bob
 * **NFTREdit** (DarthNemesis) – NFTR font editing
 * **Tinke** (Benito Palacios Sánchez) – NFTR font extraction
 
-## Installating the TTF version
-See [the fonts category on the Bob's Game FANDOM portal](https://bobsgame.fandom.com/wiki/Category:Fonts) in the Markdown files for installation instructions.
+## Installing the TTF version
+See the [Fonts category in the Bob's Game FANDOM portal](https://bobsgame.fandom.com/wiki/Category:Fonts) for installation instructions.
 
 ## NFTR version
 The NFTR based on Pixel Sans Textbook includes partial coverage of CP1252. The only characters missing in the NFTR is the non-breaking space, florin and small tilde. Use [Tinke](https://github.com/pleonex/tinke) to replace the font file.
