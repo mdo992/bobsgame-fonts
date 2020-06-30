@@ -178,7 +178,7 @@ The current release includes support for the characters listed below.
 ### Font Replacement (PS3)
 Use [Flash Font Replacer](http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html) or Rebug Toolbox with FileZilla to change the font. **Pixel Sans or Terminal or Textbook** is named `SCE-PS3-RD-R-LATIN.TTF` and `SCE-PS3-RD-R-LATIN2.TTF` and **Pixel Sans Fallback** is named `SCE-PS3-NR-R-JPN.TTF` (Japanese) or `SCE-PS3-YG-R-KOR.TTF` (Korean).
 
-**P.S.** The console stores its fonts in `data/font` or `dev_rebug/data/font` (Rebug Toolbox with FileZilla). The font can be changed in **Settings: Theme Settings: Font**. Using a firmware version older than 4.81 or a non-PlayStation 3 user agent (e.g. Xbox 360) will disable all features. Using the tool without a hybrid firmware will show a message on loading.
+**P.S.** The console stores its fonts in `data/font` or `dev_rebug/data/font` (Rebug Toolbox with FileZilla). The font can be changed in **Settings: Theme Settings: Font** (make sure the firmware language is not set to Chinese or Korean). Using a firmware version older than 4.81 or a non-PlayStation 3 user agent (e.g. Xbox 360) will disable all features. Using the tool without a hybrid firmware will show a message on loading.
 
 ### Font Linking (Windows and Wine)
 Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink` with the value `Pixel Sans Fallback.ttf,Pixel Sans Fallback` and restart the computer.
