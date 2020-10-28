@@ -98,14 +98,14 @@ The current release includes the PUA characters listed below. The allocation of 
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F4D0-F4D9 – Lowercase descending numerals
 * F4E3 – Copyleft
-* F4E9 – Capital J without serif (Textbook only), used in *Pokémon Black & White* and its direct sequel
+* F4E9 – Capital J without serif (Textbook only), used in *Pokémon Black & White* and its direct sequel and some other games (e.g. Platinum, HeartGold & SoulSilver, Diamond & Pearl, Ruby & Sapphire, etc. etc. etc.)
 * F5CC – Oblique Hyphen
 * F638 – Slashed zero (Fixedsys Excelsior)
 * F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F700, F70F – Microsoft PUA (Thai)
 * F704-F709, F70B, F70C, F715-F71C – Metrics symbols from URW Palladio HOT
-* F7E4 – Alternative Cyrillic “be”, used in Serbian and Macedonian
+* F7E4 – Alternative Cyrillic “be” for Serbian and Macedonian
 * F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages
 * F830-F835 – Latin letters (Quivira)
@@ -171,14 +171,14 @@ The current release includes support for the characters listed below.
 * E2D1-E30C, E320-E337 – Halfwidth Extensions for Japanese
 * E34C-E34E, EC7B-EC7E – Nut Fractions
 * F638, F6DC – Adobe PUA
-* F82E – *Tri Force* sign
-* F884 – Pokémon currency, usually mapped to the dollar sign ($) in Pokémon games
+* F82E – *Tri Force* sign used by *The Legend of Zelda* series
+* F884 – Pokémon currency, usually mapped to the dollar sign ($) in the fonts of all Pokémon games
 * F8FF – Apple logo
 
 ### Font Replacement (PS3)
-Use [Flash Font Replacer](http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html) or Rebug Toolbox with FileZilla to change the font. **Pixel Sans or Terminal or Textbook** is named `SCE-PS3-RD-R-LATIN.TTF` and `SCE-PS3-RD-R-LATIN2.TTF` and **Pixel Sans Fallback** is named `SCE-PS3-NR-R-JPN.TTF` (Japanese) or `SCE-PS3-YG-R-KOR.TTF` (Korean).
+Use [Flash Font Replacer](http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html) or Rebug Toolbox with FileZilla to change the font. **Pixel Sans** or **Pixel Sans Terminal** or **Pixel Sans Textbook** is named `SCE-PS3-RD-R-LATIN.TTF` and `SCE-PS3-RD-R-LATIN2.TTF` and **Pixel Sans Fallback** is named `SCE-PS3-NR-R-JPN.TTF` (Japanese) or `SCE-PS3-YG-R-KOR.TTF` (Korean).
 
-**P.S.** The console stores its fonts in `data/font` or `dev_rebug/data/font` (Rebug Toolbox with FileZilla). The font can be changed in **Settings: Theme Settings: Font** (make sure the firmware language is not set to Chinese or Korean). Using a firmware version older than 4.81 or a non-PlayStation 3 user agent (e.g. Xbox 360) will disable all features. Using the tool without a hybrid firmware will show a message on loading.
+**P.S.** The console stores its fonts in `data/font` or `dev_rebug/data/font` (Rebug Toolbox with FileZilla). The font can be changed in **Settings: Theme Settings: Font** (make sure the firmware language is not set to Chinese or Korean). Using system software versions older than 4.81 or a non-PlayStation 3 user agent (e.g. PlayStation 4) will disable all features and using the tool under non-hybrid system software will show a message on loading.
 
 ### Font Linking (Windows and Wine)
 Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink` with the value `Pixel Sans Fallback.ttf,Pixel Sans Fallback` and restart the computer.
@@ -194,4 +194,4 @@ Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pix
 2. Enter text in Japanese or Korean or go to any website in these languages.
 3. Open up the font settings in your browser.
 4. Select Pixel Sans Fallback as the default sans-serif font for Japanese and Korean.
-5. Use 8 points as the font size in Netscape or Mozilla. Other operating systems: use 10 points for Haiku and 12 points for OS/2.
+5. Use 8 points as the font size in Firefox and its forks or any other browser. Other operating systems: use 10 points for Haiku and 12 points for OS/2.
