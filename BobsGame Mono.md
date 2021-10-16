@@ -66,7 +66,7 @@ The current release includes support for the characters listed below.
 | FFF0-FFFF | Specials                                | 1/5      |
 
 ### PUA Characters
-The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](https://junicode.sourceforge.io/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
+The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](https://junicode.sourceforge.io/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/fonts/index.html) fonts.
 * E004-E7FD – Latin letters (TITUS)
 * E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gāndhārī Unicode
 * EA00-EB94 – Greek letters (TITUS)
@@ -76,5 +76,5 @@ The current release includes the PUA characters listed below. The allocation of 
 * F638 – Slashed zero (Fixedsys Excelsior)
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F700, F70F – Microsoft PUA (Thai)
-* F8FF – Apple logo
 * F704-F709, F70B, F70C, F715-F71C – Metrics symbols from URW Palladio HOT
+* F8FF – Apple logo

@@ -87,8 +87,8 @@ The textbook font has the same ranges with the following ranges:
 | 30A0-30FF | Katakana                      | 82/96    |
 | FF00-FFEF | Halfwidth and Fullwidth Forms | 110/225  |
 
-### PUA Characters - Version 9.0
-The current release includes the PUA characters listed below. The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](https://junicode.sourceforge.io/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/) fonts.
+### PUA Characters
+The allocation of code points has been co-ordinated with characters in the [TITUS Cyberbit](http://titus.uni-frankfurt.de/), [Junicode](https://junicode.sourceforge.io/), [Alphabetum](http://guindo.pntic.mec.es/~jmag0042/alphaeng.html), Gāndhārī Unicode, Fixedsys Excelsior and [URW Palladio HOT](http://www.sanskritweb.net/fonts/index.html) fonts.
 * E004-E7FD – Latin letters (TITUS)
 * E801-E804 – Hebrew Microsoft PUA
 * E816, E817, E83B, E83C, E842, E843, E854, E855, E87B, E87C, E87E, E87F, E888, E88A, E892, E89C-E8A0, E8B2, F20E, F212, F77B-F77D – Gāndhārī Unicode
@@ -98,7 +98,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * F11E-F11F, F12A-F12B, F150-F151, F160-F163 – ISO 15919 diacritics from URW Palladio HOT
 * F4D0-F4D9 – Lowercase descending numerals
 * F4E3 – Copyleft
-* F4E9 – Capital J without serif (Textbook only), used in *Pokémon Black & White* and its direct sequel and some other games (e.g. Platinum, HeartGold & SoulSilver, Diamond & Pearl, Ruby & Sapphire, etc. etc. etc.)
+* F4E9 – Capital J without serif (Textbook only), used in *Pokémon Black & White* and the sequel and other games in the main RPG franchise
 * F5CC – Oblique Hyphen
 * F638 – Slashed zero (Fixedsys Excelsior)
 * F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
@@ -109,7 +109,7 @@ The current release includes the PUA characters listed below. The allocation of 
 * F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages
 * F830-F835 – Latin letters (Quivira)
-* F870-F888 – Symbols in *Pokémon Black & White* and its direct sequel (Textbook only). The font in the games uses the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols.
+* F870-F888 – Symbols in *Pokémon Black & White* and the sequel (Textbook only). The font in the games uses the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols. They are found in the name input screen.
 * F8FF – Apple logo
 
 ### Supported Characters - Fallback Version 5.0
@@ -166,7 +166,7 @@ The current release includes support for the characters listed below.
 | FFF0-FFFF | Specials                           | 1/5        |
 
 ### PUA Characters
-* E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Symbols for *Nintendo DS* and *Nintendo Wii*
+* E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Symbols for Nintendo DS and Nintendo Wii
 * E06C – Sims currency symbol
 * E2D1-E30C, E320-E337 – Halfwidth Extensions for Japanese
 * E34C-E34E, EC7B-EC7E – Nut Fractions
@@ -178,7 +178,7 @@ The current release includes support for the characters listed below.
 ### Font Replacement (PS3)
 Use [Flash Font Replacer](http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html) or Rebug Toolbox with FileZilla to change the font. **Pixel Sans** or **Pixel Sans Terminal** or **Pixel Sans Textbook** is named `SCE-PS3-RD-R-LATIN.TTF` and `SCE-PS3-RD-R-LATIN2.TTF` and **Pixel Sans Fallback** is named `SCE-PS3-NR-R-JPN.TTF` (Japanese) or `SCE-PS3-YG-R-KOR.TTF` (Korean).
 
-**P.S.** The console stores its fonts in `data/font` or `dev_rebug/data/font` (Rebug Toolbox with FileZilla). The font can be changed in **Settings: Theme Settings: Font** (make sure the firmware language is not set to Chinese or Korean). Using system software versions older than 4.81 or a non-PlayStation 3 user agent (e.g. PlayStation 4) will disable all features and using the tool under non-hybrid system software will show a message on loading.
+**P.S.** The console stores its fonts in `data/font` or `dev_rebug/data/font` (Rebug Toolbox with FileZilla). The font can be changed in **Settings: Theme Settings: Font** (make sure the firmware language is not Chinese or Korean). Using the system software with a version older than 4.81 or a non-PlayStation 3 browser (e.g. Firefox Desktop or WebPositive) will display a message and disable all features. Also, using the tool under a non-hybrid version will show a message on loading.
 
 ### Font Linking (Windows and Wine)
 Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pixel Sans Textbook** to `HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\FontLink\SystemLink` with the value `Pixel Sans Fallback.ttf,Pixel Sans Fallback` and restart the computer.
