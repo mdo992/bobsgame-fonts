@@ -77,5 +77,5 @@ The allocation of code points has been co-ordinated with characters in the [TITU
 * F638 – Slashed zero (Fixedsys Excelsior)
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F700, F70F – Microsoft PUA (Thai)
-* F704-F709, F70B, F70C, F715-F71C – Metrics symbols from URW Palladio HOT
+* F704-F709, F70B-F70C, F715-F71C – Metrics symbols (URW Palladio HOT)
 * F8FF – Apple logo

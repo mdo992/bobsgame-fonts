@@ -80,5 +80,5 @@ The allocation of code points has been co-ordinated with characters in the [TITU
 * F500-F519 – Fullwidth extensions for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani
 * F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
-* F704-F709, F70B, F70C, F715-F71C – Metrics symbols from URW Palladio HOT
+* F704-F709, F70B-F70C, F715-F71C – Metrics symbols (URW Palladio HOT)
 * F8FF – Apple logo

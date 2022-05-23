@@ -104,7 +104,7 @@ The allocation of code points has been co-ordinated with characters in the [TITU
 * F664-F669 – Symbols from *Zone of the Enders: The Fist of Mars*
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
 * F700, F70F – Microsoft PUA (Thai)
-* F704-F709, F70B, F70C, F715-F71C – Metrics symbols from URW Palladio HOT
+* F704-F709, F70B-F70C, F715-F71C – Metrics symbols from URW Palladio HOT
 * F7E4 – Alternative Cyrillic “be” for Serbian and Macedonian
 * F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages

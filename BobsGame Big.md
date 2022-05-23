@@ -66,5 +66,5 @@ The allocation of code points has been co-ordinated with characters in the [TITU
 * F500-F519 – Italic letters (Fixedsys Excelsior). Italics include Āçċêńţś, for Latin-1, Latin-2, Latin-3, Baltic, Turkish, and Azerbaijani. These letters are only available in lowercase
 * F638 – Slashed zero (Fixedsys Excelsior)
 * F6C3, F6D4-F6D8, F6DC-F6DD, F730-F739, F74A, F76A – Adobe PUA
-* F704-F709, F70B, F70C, F715-F71C – Metrics symbols from URW Palladio HOT
+* F704-F709, F70B, F70C, F715-F71C – Metrics symbols, URW Palladio HOT
 * F8FF – Apple logo
