@@ -24,7 +24,7 @@ The current release includes support for the characters listed below.
 | 10A0-10FF | Georgian                                | (all)    |
 | 13A0-13FF | Cherokee                                | (all)    |
 | 16A0-16FF | Runic                                   | (all)    |
-| 1AB0-1AFF | Combining Diacritical Marks Extended    | 15/17    |
+| 1AB0-1AFF | Combining Diacritical Marks Extended    | 24/31    |
 | 1C80-1C8F | Cyrillic Extended-C                     | (all)    |
 | 1C90-1CBF | Georgian Extended                       | (all)    |
 | 1D00-1D7F | Phonetic Extensions                     | (all)    |
@@ -109,7 +109,7 @@ The allocation of code points has been co-ordinated with characters in the [TITU
 * F800-F807 – Diacritics used in the ALA-LC transliteration scheme and Colombian native languages
 * F814-F82D – Diacritics for African languages
 * F830-F835 – Latin letters (Quivira)
-* F870-F888 – Symbols in *Pokémon Black & White* and the sequel (Textbook only). The font in the games uses the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols. They are found in the name input screen.
+* F870-F888 – Symbols in *Pokémon Black & White* and the sequel (Textbook only). The font in the games uses the Mathematical Operators, Miscellaneous Technical etc. ranges of Unicode for these symbols. They're available in the name input screen.
 * F8FF – Apple logo
 
 ### Supported Characters - Fallback Version 5.0
@@ -168,14 +168,14 @@ The current release includes support for the characters listed below.
 ### PUA Characters
 * E000-E040, E042, E045-E048, E04A-E04F, E052-E053, E06B – Symbols for Nintendo DS and Nintendo Wii
 * E06C – Sims currency symbol
-* E2D1-E30C, E320-E337 – Halfwidth Extensions for Japanese
+* E2D1-E30C, E320-E337 – Japanese Halfwidth Extensions
 * E34C-E34E, EC7B-EC7E – Nut Fractions
 * F638, F6DC – Adobe PUA
 * F82E – *Tri Force* sign used by *The Legend of Zelda* series
 * F884 – Pokémon currency, usually mapped to the dollar sign ($) in the fonts of all Pokémon games
 * F8FF – Apple logo
 
-### Font Replacement (PS3)
+### Font Replacement (PlayStation 3)
 Use [Flash Font Replacer](http://ps3xploit.com/hfw/flash_font_replacer/flash_font_replacer.html) or Rebug Toolbox with FileZilla to change the font. **Pixel Sans** or **Pixel Sans Terminal** or **Pixel Sans Textbook** is named `SCE-PS3-RD-R-LATIN.TTF` and `SCE-PS3-RD-R-LATIN2.TTF` and **Pixel Sans Fallback** is named `SCE-PS3-NR-R-JPN.TTF` (Japanese) or `SCE-PS3-YG-R-KOR.TTF` (Korean).
 
 **P.S.** The console stores its fonts in `data/font` or `dev_rebug/data/font` (Rebug Toolbox with FileZilla). The font can be changed in **Settings: Theme Settings: Font** (make sure the firmware language is not Chinese or Korean). Using the system software with a version older than 4.81 or a non-PlayStation 3 browser (e.g. Firefox Desktop or WebPositive) will display a message and disable all features. Also, using the tool under a non-hybrid version will show a message on loading.

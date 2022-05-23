@@ -23,21 +23,22 @@ The current release includes support for the characters listed below.
 | 0E00-0E7F | Thai                                    | (all)    |
 | 10A0-10FF | Georgian                                | (all)    |
 | 16A0-16FF | Runic                                   | 2/89     |
-| 1AB0-1AFF | Combining Diacritical Marks Extended    | 2/17     |
+| 1AB0-1AFF | Combining Diacritical Marks Extended    | 3/31     |
 | 1C80-1CFF | Cyrillic Extended-C                     | (all)    |
-| 1D00-1D7F | Phonetic Extensions                     | 122/128  |
+| 1C90-1CBF | Georgian Extended                       | (all)    |
+| 1D00-1D7F | Phonetic Extensions                     | 126/128  |
 | 1D80-1DBF | Phonetic Extensions Supplement          | (all)    |
 | 1DC0-1DFF | Combining Diacritical Marks Supplement  | (all)    |
 | 1E00-1EFF | Latin Extended Additional               | (all)    |
 | 1F00-1FFF | Greek Extended                          | (all)    |
-| 2000-206F | General Punctuation                     | 86/111   |
+| 2000-206F | General Punctuation                     | (all)    |
 | 2070-209F | Superscripts and Subscripts             | (all)    |
 | 20A0-20CF | Currency Symbols                        | (all)    |
 | 20D0-20FF | Combining Diacritical Marks for Symbols | (all)    |
 | 2100-214F | Letterlike Symbols                      | 71/80    |
 | 2150-218F | Number Forms                            | 29/60    |
 | 2190-21FF | Arrows                                  | 87/112   |
-| 2200-22FF | Mathematical Operators                  | 209/256  |
+| 2200-22FF | Mathematical Operators                  | 215/256  |
 | 2300-23FF | Miscellaneous Technical                 | 185/256  |
 | 2400-243F | Control Pictures                        | (all)    |
 | 2440-245F | Optical Character Recognition           | (all)    |
@@ -45,17 +46,17 @@ The current release includes support for the characters listed below.
 | 2589-259F | Block Elements                          | 20/32    |
 | 25A0-25FF | Geometric Shapes                        | 73/96    |
 | 2600-26FF | Miscellaneous Symbols                   | 119/256  |
-| 2700-27BF | Dingbats                                | 43/192   |
+| 2700-27BF | Dingbats                                | 44/192   |
 | 27C0-27EF | Miscellaneous Mathematical Symbols-A    | 20/48    |
 | 27F0-27FF | Supplemental Arrows-A                   | 10/16    |
 | 2900-297F | Supplemental Arrows-B                   | 63/128   |
 | 2980-29FF | Miscellaneous Mathematical Symbols-B    | 62/128   |
-| 2A00-2AFF | Supplemental Mathematical Operators     | 119/256  |
+| 2A00-2AFF | Supplemental Mathematical Operators     | 122/256  |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows        | 55/253   |
 | 2C60-2C6F | Latin Extended-C                        | (all)    |
 | 2D00-2D2F | Georgian Supplement                     | (all)    |
 | 2E00-2E7F | Supplemental Punctuation                | (all)    |
-| 3000-303F | CJK Symbols and Punctuation             | 8/64     |
+| 3000-303F | CJK Symbols and Punctuation             | 11/64    |
 | A4D0-A4FF | Lisu                                    | (all)    |
 | A640-A69F | Cyrillic Extended-B                     | 81/96    |
 | A700-A71F | Modifier Tone Letters                   | (all)    |
