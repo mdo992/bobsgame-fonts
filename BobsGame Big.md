@@ -21,20 +21,20 @@ The current release includes support for the characters listed below.
 | 0530-058F | Armenian                               | 8/91     |
 | 0590-05FF | Hebrew                                 | 44/88    |
 | 0E00-0E7F | Thai                                   | 2/87     |
-| 1D00-1D7F | Phonetic Extensions                    | 105/128  |
-| 1D80-1DBF | Phonetic Extensions Supplement         | 31/64    |
-| 1DC0-1DFF | Combining Diacritical Marks Supplement | 16/63    |
+| 1D00-1D7F | Phonetic Extensions                    | 106/128  |
+| 1D80-1DBF | Phonetic Extensions Supplement         | 33/64    |
+| 1DC0-1DFF | Combining Diacritical Marks Supplement | 19/63    |
 | 1E00-1EFF | Latin Extended Additional              | (all)    |
 | 1F00-1FFF | Greek Extended                         | (all)    |
-| 2000-206F | General Punctuation                    | 81/111   |
+| 2000-206F | General Punctuation                    | (all)    |
 | 2070-209F | Superscripts and Subscripts            | (all)    |
 | 20A0-20CF | Currency Symbols                       | (all)    |
-| 2100-214F | Letterlike Symbols                     | 47/80    |
+| 2100-214F | Letterlike Symbols                     | 50/80    |
 | 2150-218F | Number Forms                           | 20/60    |
-| 2190-21FF | Arrows                                 | 13/112   |
-| 2200-22FF | Mathematical Operators                 | 108/256  |
-| 2300-23FF | Miscellaneous Technical                | 50/256   |
-| 2400-243F | Control Pictures                       | 20/39    |
+| 2190-21FF | Arrows                                 | 17/112   |
+| 2200-22FF | Mathematical Operators                 | 110/256  |
+| 2300-23FF | Miscellaneous Technical                | 58/256   |
+| 2400-243F | Control Pictures                       | 22/39    |
 | 2500-257F | Box Drawing                            | 17/128   |
 | 25A0-25FF | Geometric Shapes                       | 51/96    |
 | 2600-26FF | Miscellaneous Symbols                  | 69/256   |
@@ -44,13 +44,13 @@ The current release includes support for the characters listed below.
 | 2A00-2AFF | Supplemental Mathematical Operators    | 38/256   |
 | 2B00-2BFF | Miscellaneous Symbols and Arrows       | 10/253   |
 | 2C60-2C7F | Latin Extended-C                       | (all)    |
-| 2E00-2E5F | Supplemental Punctuation               | 52/83    |
+| 2E00-2E5F | Supplemental Punctuation               | 54/83    |
 | 3000-303F | CJK Symbols and Punctuation            | 4/64     |
 | A4D0-A4FF | Lisu                                   | (all)    |
 | A640-A69F | Cyrillic Extended-A                    | 30/96    |
 | A700-A71F | Modifier Tone Letters                  | (all)    |
-| A720-A7FF | Latin Extended-D                       | 135/180  |
-| AB30-AB6F | Latin Extended-E                       | 41/60    |
+| A720-A7FF | Latin Extended-D                       | 144/180  |
+| AB30-AB6F | Latin Extended-E                       | 42/60    |
 | FB00-FB4F | Alphabetic Presentation Forms          | 7/58     |
 | FE20-FE2F | Combining Half Marks                   | 2/16     |
 | FFF0-FFFF | Specials                               | 1/5      |

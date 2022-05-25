@@ -23,7 +23,7 @@ The current release includes support for the characters listed below.
 | 0E00-0E7F | Thai                                    | (all)    |
 | 10A0-10FF | Georgian                                | 1/88     |
 | 16A0-16FF | Runic                                   | 2/89     |
-| 1AB0-1AFF | Combining Diacritical Marks Extended    | 24/31    |
+| 1AB0-1AFF | Combining Diacritical Marks Extended    | (all)    |
 | 1C80-1C8F | Cyrillic Extended-C                     | (all)    |
 | 1D00-1D7F | Phonetic Extensions                     | (all)    |
 | 1D80-1DBF | Phonetic Extensions Supplement          | (all)    |

@@ -24,7 +24,7 @@ The current release includes support for the characters listed below.
 | 10A0-10FF | Georgian                                | (all)    |
 | 13A0-13FF | Cherokee                                | (all)    |
 | 16A0-16FF | Runic                                   | (all)    |
-| 1AB0-1AFF | Combining Diacritical Marks Extended    | 24/31    |
+| 1AB0-1AFF | Combining Diacritical Marks Extended    | (all)    |
 | 1C80-1C8F | Cyrillic Extended-C                     | (all)    |
 | 1C90-1CBF | Georgian Extended                       | (all)    |
 | 1D00-1D7F | Phonetic Extensions                     | (all)    |
