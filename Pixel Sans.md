@@ -190,8 +190,16 @@ Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pix
 4. Restart the computer for the changes to take effect.
 
 ### Setting Pixel Sans Fallback as default for Japanese and Korean in web browsers
-1. Clone the repository, download the zipped archive or the font separately.
+1. Clone the repository or download the zipped archive or the font separately.
 2. Enter text in Japanese or Korean or go to any website in these languages.
-3. Open up the font settings in your browser.
+3. Open up the font settings in your web browser.
 4. Select Pixel Sans Fallback as the default sans-serif font for Japanese and Korean.
 5. Use 8 points as the font size in Firefox and its forks or any other browser. Other operating systems: use 10 points for Haiku and 12 points for OS/2.
+
+## List of games using the font
+
+### Game Boy Advance
+
+### Nintendo 3DS
+
+### Nintendo DS
