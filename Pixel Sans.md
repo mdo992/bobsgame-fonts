@@ -203,3 +203,7 @@ Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pix
 ### Nintendo 3DS
 
 ### Nintendo DS
+* Space Invaders Extreme (In the menu descriptions)
+* Space Invaders Extreme 2 (In the menu descriptions)
+* Super Dodgeball Brawlers
+* Tokyo Beat Down
