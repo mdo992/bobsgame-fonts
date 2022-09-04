@@ -201,6 +201,7 @@ Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pix
 ### Game Boy Advance
 
 ### Nintendo 3DS
+* Shin Megami Tensei: Devil Summoners: Soul Hackers
 
 ### Nintendo DS
 * Dogz
@@ -213,8 +214,17 @@ Use the registry editor to add **Pixel Sans**, **Pixel Sans Terminal** and **Pix
 * Love Plus
 * Luminous Arc
 * Luminous Arc 2
+* Metcha! Taiko no Tatsujin DS: 7-tsu no Shima no Daibōken
+* Miami Law
+* Namco Museum DS
+* Populous DS
+* Ragnarök DS
+* SimCity Creator DS
+* SNK vs. Capcom: Card Fighters DS
 * Space Invaders Extreme (In the menu descriptions)
 * Space Invaders Extreme 2 (In the menu descriptions)
+* Steal Princess
+* Suikoden Tierkreis
 * Super Dodgeball Brawlers
 * The Dark Spire
 * Tokyo Beat Down
