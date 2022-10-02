@@ -278,7 +278,7 @@ Use the registry editor (under Windows 10 and 11 the program is available as a s
 * Custom Robo Arena
 * Days of Memories series
 * Death Note: Kira's Game
-* Deca Sports DS
+* Deca Sports DS – Some glyphs are modified.
 * Dementium: The Ward – The font is available in-game as **font01.NFTR** through **font06.NFTR**.
 * D.Gray-Man: The Apostles of God - Innocence Accommodators
 * Dogz
