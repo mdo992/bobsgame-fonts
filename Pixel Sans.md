@@ -259,6 +259,8 @@ Use the registry editor (under Windows 10 and 11 the program is available as a s
 * Atelier Lina: Alchemist of Strahl
 * Avalon Code
 * A Witch's Tale – This font is used in the Japanese version only.
+* Bakugan: Battle Brawlers
+* Bakugan: Battle Brawlers - Defenders of the Core
 * Bakumatsu Renka Shinsengumi DS
 * Battle Spirits Digital Starter
 * Blazer Drive
@@ -276,6 +278,7 @@ Use the registry editor (under Windows 10 and 11 the program is available as a s
 * Custom Robo Arena
 * Days of Memories series
 * Death Note: Kira's Game
+* Deca Sports DS
 * Dementium: The Ward – The font is available in-game as **font01.NFTR** through **font06.NFTR**.
 * D.Gray-Man: The Apostles of God - Innocence Accommodators
 * Dogz
@@ -343,8 +346,8 @@ Use the registry editor (under Windows 10 and 11 the program is available as a s
 * Ni no Kuni: Dominion of the Dark Djinn
 * Nodame Cantabile
 * Nora and the Time Studio: The Witch of the Misty Forest
-* Okaeri! Chibi-Robo! Happy Richie Osoji
-* Ouran High School Host Club DS
+* Okaeri! Chibi-Robo! Happy Richie Ōsōji
+* Ōran High School Host Club DS
 * Picross DS (from the Touch! Generations series)
 * Pokémon Black & White (also used in beta release and its sequel) – The font is available in-game as **a/0/2/3/3_0.RTFN** based on the country/region the game is played. The font is in Unicode, however all Greek and many Cyrillic characters are omitted.
 * Pokémon Conquest – This font is used in the Japanese version only.
